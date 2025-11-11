@@ -1,4 +1,30 @@
 Instructor,Course,Term,Enrolled/ Resp Rate,Avg Grade Received,Avg Hours Worked,Learning Average*,Structure Average*,Environment Average*,course_title
+"Delgado, Tania",COGS 179 - Electrophysiology of Cognition (A00),SP25,57 (57.89%),3.08 (B),4.82,4.51,4.34,4.55,cogs179
+"Momsen, Jacob Pohaku",COGS 179 - Electrophysiology of Cognition (A00),SP24,43 (32.56%),3.17 (B),6.14,4.43,4.2,4.49,cogs179
+"Aronoff-Spencer, Eliah Sea",DSGN 160 - Special Topics in Design (A00),SP24,26 (11.54%),3.99 (A-),5.0,4.75,4.83,4.92,dsgn160
+"Idoux, Clemence Marie",DSGN 160 - Special Topics in Design (A00),WI24,30 (26.67%),3.01 (B),4.0,3.56,3.97,4.28,dsgn160
+"Lai, Lucy",COGS 180 - Decision Making in the Brain (A00),S124,30 (66.67%),3.64 (B+),7.3,4.73,4.74,4.78,cogs180
+"Khosla, Meenakshi",COGS 138 - Neural Data Science (A00),SP24,69 (62.32%),3.79 (A-),5.28,4.15,4.09,4.3,cogs138
+"Kaufhold, Stephan Paul",COGS 143 - Animal Cognition (A00),SP25,40 (10.00%),3.31 (B+),4.0,4.75,4.5,5.0,cogs143
+"Johnson, Christine M.",COGS 143 - Animal Cognition (A00),FA23,41 (36.59%),3.33 (B+),6.67,4.41,4.18,4.41,cogs143
+"Morgan, Eric",COGS 10 - Cognitv Consequence/Technology (A00),WI25,351 (22.79%),3.88 (A-),3.59,4.33,4.24,4.38,cogs10
+"Hollan, James D.",COGS 10 - Cognitv Consequence/Technology (A00),FA24,306 (34.31%),3.53 (B+),5.18,3.42,3.18,4.13,cogs10
+"Morgan, Eric",COGS 10 - Cognitv Consequence/Technology (A00),SP24,389 (20.05%),3.83 (A-),3.67,4.41,4.33,4.55,cogs10
+"Morgan, Eric",COGS 10 - Cognitv Consequence/Technology (A00),WI24,354 (24.86%),3.87 (A-),3.53,4.29,4.24,4.53,cogs10
+"Cooperrider, Kensy A",COGS 155 - Gesture and Cognition (A00),WI25,49 (10.20%),3.04 (B),3.8,4.74,4.79,4.76,cogs155
+"Cooperrider, Kensy A",COGS 155 - Gesture and Cognition (A00),SP24,51 (31.37%),3.59 (B+),2.88,4.63,4.5,4.52,cogs155
+"Dow, Steven P",COGS 122 - Startup Studio (A00),WI25,51 (19.61%),3.64 (B+),7.8,4.38,4.35,4.38,cogs122
+"Dow, Steven P",COGS 122 - Startup Studio (A00),SP24,54 (22.22%),3.71 (A-),8.83,4.5,4.44,4.43,cogs122
+"Boyle, Mary E. T.",COGS 107A - Neuroanatomy and Physiology (A00),S125,37 (8.11%),2.78 (B-),13.33,3.53,3.5,4.17,cogs107a
+"Boyle, Mary E. T.",COGS 107A - Neuroanatomy and Physiology (A00),SP25,319 (19.75%),2.79 (B-),7.66,3.66,3.36,4.16,cogs107a
+"Boyle, Mary E. T.",COGS 107A - Neuroanatomy and Physiology (A00),WI25,407 (21.38%),2.84 (B-),7.6,3.91,3.63,4.18,cogs107a
+"Boyle, Mary E. T.",COGS 107A - Neuroanatomy and Physiology (A00),S124,51 (17.65%),3.41 (B+),8.11,4.49,4.17,4.5,cogs107a
+"Boyle, Mary E. T.",COGS 107A - Neuroanatomy and Physiology (A00),SP24,417 (18.47%),3.17 (B),6.8,4.24,3.93,4.47,cogs107a
+"Rangel, Lara M",COGS 107A - Neuroanatomy and Physiology (A00),FA23,412 (24.76%),3.13 (B),6.37,4.1,4.08,4.5,cogs107a
+"Boyle, Mary E. T.",COGS 107A - Neuroanatomy and Physiology (A00),S123,31 (29.03%),3.20 (B),8.89,4.64,4.39,4.57,cogs107a
+"Rill, Bryan",COGS 175 - Alternate States/Consciousness (A00),SP24,64 (15.63%),3.14 (B),6.6,3.58,2.64,4.03,cogs175
+"Boyle, Mary E. T.",COGS 163 - Metabolic Disorders/Brain (A00),FA24,51 (25.49%),3.88 (A-),5.46,4.69,4.58,4.65,cogs163
+"Boyle, Mary E. T.",COGS 163 - Metabolic Disorders/Brain (A00),WI24,88 (25.00%),3.73 (A-),5.64,4.8,4.59,4.68,cogs163
 "Weibel, Nadir",CSE 118 - Ubiquitous Computing (A00),FA24,18 (22.22%),3.77 (A-),5.5,4.44,4.69,4.94,cse118
 "Weibel, Nadir",CSE 118 - Ubiquitous Computing (A00),FA23,24 (37.50%),3.81 (A-),8.89,4.14,4.4,4.69,cse118
 "Eldon, John",CSE 30 - Computer Organization (A00),S225,57 (12.28%),3.12 (B),8.71,3.57,3.26,4.29,cse30
@@ -20,9 +46,11 @@ Instructor,Course,Term,Enrolled/ Resp Rate,Avg Grade Received,Avg Hours Worked,L
 "Kumar, Rakesh",CSE 175 - Entrepreneurship for Engineers (A00),S124,27 (14.81%),3.44 (B+),5.0,4.63,4.31,4.47,cse175
 "Kumar, Rakesh",CSE 175 - Entrepreneurship for Engineers (A00),SP24,47 (72.34%),3.29 (B),6.94,4.07,3.84,4.25,cse175
 "Kumar, Rakesh",CSE 175 - Entrepreneurship for Engineers (A00),S123,22 (81.82%),3.31 (B+),8.33,4.21,4.04,4.29,cse175
+"Beatty-Martinez, Anne",COGS 158 - Bilingual Minds and Brains (A00),WI25,66 (68.18%),3.69 (B+),3.22,4.58,4.63,4.68,cogs158
 "Snoeren, Alex C.",CSE 123 - Computer Networks (A00),FA24,102 (35.29%),3.08 (B),13.25,4.62,4.47,4.52,cse123
 "Shalev, Aaron D",CSE 123 - Computer Networks (A00),WI24,69 (28.99%),2.70 (C+),13.3,4.64,4.34,4.56,cse123
 "Snoeren, Alex C.",CSE 123 - Computer Networks (A00),FA23,70 (27.14%),3.12 (B),9.74,4.67,4.29,4.52,cse123
+"Zettersten, Martin",COGS 119 - Programming/Experimental Res. (A00),FA24,44 (59.09%),3.52 (B+),4.62,4.73,4.75,4.9,cogs119
 "Minnes Kemp, Mor Mia",CSE 89 - Intro to CSE Seminar (A00),SP25,12 (41.67%),(N/A),1.0,4.69,4.53,4.73,cse89
 "Minnes Kemp, Mor Mia",CSE 89 - Intro to CSE Seminar (B00),SP25,13 (23.08%),(N/A),1.0,,,4.4,cse89
 "Minnes Kemp, Mor Mia",CSE 89 - Intro to CSE Seminar (A00),WI25,17 (29.41%),(N/A),1.5,4.44,4.43,4.69,cse89
@@ -33,6 +61,14 @@ Instructor,Course,Term,Enrolled/ Resp Rate,Avg Grade Received,Avg Hours Worked,L
 "Ochoa, Benjamin Lawrence",CSE 8B - Intro to Programming 2 (A00),WI25,170 (26.47%),2.65 (C+),9.7,4.08,3.96,4.32,cse8b
 "Miranda, Gregory Joseph",CSE 8B - Intro to Programming 2 (A00),WI24,205 (35.61%),3.40 (B+),6.26,4.16,4.16,4.47,cse8b
 "Ochoa, Benjamin Lawrence",CSE 8B - Intro to Programming 2 (A00),SP23,134 (24.63%),2.47 (C+),8.79,3.98,3.62,4.39,cse8b
+"Rill, Bryan",DSGN 100 - Prototyping (A00),SP25,67 (16.42%),3.60 (B+),7.0,4.11,3.81,4.17,dsgn100
+"Rill, Bryan",DSGN 100 - Prototyping (A00),WI25,100 (20.00%),3.70 (B+),6.79,4.46,3.91,4.33,dsgn100
+"Rill, Bryan",DSGN 100 - Prototyping (A00),FA24,107 (19.63%),3.64 (B+),7.3,4.19,3.96,4.21,dsgn100
+"Xu, Tone",DSGN 100 - Prototyping (B00),S224,27 (11.11%),3.58 (B+),11.67,3.83,2.17,3.75,dsgn100
+"Rill, Bryan",DSGN 100 - Prototyping (A00),WI24,81 (45.68%),3.54 (B+),8.0,4.33,4.19,4.41,dsgn100
+"Dow, Steven P",DSGN 100 - Prototyping (A00),FA23,107 (54.21%),3.71 (A-),8.1,4.31,4.18,4.32,dsgn100
+"Barbosa, Erika Katrina",DSGN 100 - Prototyping (A00),S223,31 (12.90%),3.22 (B),10.0,4.81,5.0,5.0,dsgn100
+"Palani, Srishti",DSGN 100 - Prototyping (A00),S123,27 (55.56%),3.78 (A-),7.86,4.46,4.21,4.58,dsgn100
 "Solares, Edwin A",CSE 151A - ML: Learning Algorithms (A00),S225,35 (88.57%),3.15 (B),10.8,4.16,3.92,4.28,cse151a
 "Dasgupta, Sanjoy",CSE 151A - ML: Learning Algorithms (A00),SP25,318 (22.64%),3.08 (B),6.8,4.73,4.68,4.71,cse151a
 "Shang, Jingbo",CSE 151A - ML: Learning Algorithms (A00),WI25,339 (48.67%),3.95 (A-),5.88,4.43,4.41,4.57,cse151a
@@ -43,17 +79,42 @@ Instructor,Course,Term,Enrolled/ Resp Rate,Avg Grade Received,Avg Hours Worked,L
 "Imola, Jacob John",CSE 151A - Intro to Machine Learning (A00),S123,45 (28.89%),2.99 (B-),8.33,4.42,4.19,4.48,cse151a
 "McAuley, Julian John",CSE 158 - Recommender Sys&Web Mining (A00),FA24,192 (22.40%),3.89 (A-),6.8,4.38,4.31,4.51,cse158
 "McAuley, Julian John",CSE 158 - Recommender Sys&Web Mining (A00),FA23,200 (26.00%),3.79 (A-),8.24,4.47,4.5,4.65,cse158
+"Dow, Steven P",COGS 123 - Social Computing (A00),FA24,206 (19.42%),3.65 (B+),6.79,4.08,3.79,4.19,cogs123
+"Dow, Steven P",COGS 123 - Social Computing (A00),WI24,213 (26.29%),3.73 (A-),6.42,4.23,4.03,4.32,cogs123
+"Pineda, Jaime A",COGS 171GS - Mirror Neuron System (A00),S124,28 (21.43%),3.80 (A-),4.0,3.96,3.17,3.74,cogs171gs
+"Morgan, Eric",COGS 101A - Sensation and Perception (A00),SP25,141 (19.15%),3.61 (B+),3.96,4.3,4.17,4.33,cogs101a
+"Barrera, Steven James",COGS 101A - Sensation and Perception (A00),WI25,350 (18.86%),3.39 (B+),4.51,4.6,4.54,4.67,cogs101a
+"Barrera, Steven James",COGS 101A - Sensation and Perception (A00),FA24,354 (27.97%),3.52 (B+),4.12,4.7,4.62,4.74,cogs101a
+"Hoffman, Drew Ellen",COGS 101A - Sensation and Perception (A00),S124,71 (15.49%),3.29 (B),5.0,4.15,4.1,4.36,cogs101a
+"Morgan, Eric",COGS 101A - Sensation and Perception (A00),SP24,242 (19.01%),3.12 (B),3.61,4.43,4.25,4.48,cogs101a
+"Barrera, Steven James",COGS 101A - Sensation and Perception (A00),WI24,375 (29.07%),3.43 (B+),4.39,4.44,4.44,4.55,cogs101a
+"Barrera, Steven James",COGS 101A - Sensation and Perception (A00),FA23,435 (34.25%),3.60 (B+),5.23,4.49,4.56,4.67,cogs101a
+"Zhang, Shan",COGS 101A - Sensation and Perception (A00),S223,83 (18.07%),3.60 (B+),6.0,4.51,4.48,4.59,cogs101a
+"Deak, Gedeon O.",COGS 115 - Neurologcl Devlp & Cogntv Chng (A00),WI25,56 (23.21%),3.40 (B+),6.08,4.04,3.88,4.1,cogs115
 "Vianu, Victor Dan",CSE 132A - Database System Principles (A00),WI25,170 (19.41%),2.40 (C+),6.16,4.05,3.86,4.35,cse132a
 "Deutsch, Alin Bernard",CSE 132A - Database System Principles (A00),FA24,184 (23.91%),3.31 (B+),6.12,4.06,3.99,4.46,cse132a
 "Vianu, Victor Dan",CSE 132A - Database System Principles (A00),WI24,170 (26.47%),3.03 (B),5.79,4.28,4.2,4.51,cse132a
 "Vianu, Victor Dan",CSE 132A - Database System Principles (A00),FA23,176 (18.75%),3.00 (B-),6.72,4.02,3.88,4.31,cse132a
 "Pevzner, Pavel Arkadjevich",CSE 181 - Molecular Sequence Analysis (A00),WI25,20 (50.00%),3.53 (B+),11.9,4.4,4.05,4.41,cse181
 "Pevzner, Pavel Arkadjevich",CSE 181 - Molecular Sequence Analysis (A00),WI24,31 (29.03%),3.12 (B),12.22,4.69,4.03,3.97,cse181
+"Rossano, Federico",COGS 142 - Animal Communication (A00),SP25,46 (21.74%),3.61 (B+),1.8,4.75,4.65,4.45,cogs142
+"Rossano, Federico",COGS 142 - Animal Communication (A00),SP24,49 (18.37%),3.68 (B+),3.22,4.29,4.22,4.36,cogs142
+"Chkhaidze, Ana",COGS 11 - Minds & Brains (A00),S225,30 (16.67%),3.18 (B),4.6,4.04,4.05,4.2,cogs11
+"Chkhaidze, Ana",COGS 11 - Minds & Brains (A00),S125,29 (17.24%),3.62 (B+),2.6,4.2,4.16,4.15,cogs11
+"Boroditsky, Lera",COGS 11 - Minds & Brains (A00),SP25,136 (20.59%),3.64 (B+),3.77,4.29,4.23,4.36,cogs11
+"Boyle, Mary E. T.",COGS 11 - Minds & Brains (A00),WI25,153 (35.29%),3.78 (A-),2.77,4.79,4.63,4.73,cogs11
+"Boroditsky, Lera",COGS 11 - Minds & Brains (A00),FA24,160 (27.50%),3.64 (B+),3.82,4.5,4.44,4.53,cogs11
+"Chkhaidze, Ana",COGS 11 - Minds & Brains (A00),S124,49 (20.41%),3.45 (B+),5.6,4.7,4.63,4.64,cogs11
+"Boroditsky, Lera",COGS 11 - Minds & Brains (A00),SP24,177 (21.47%),3.59 (B+),3.86,4.15,3.97,4.11,cogs11
+"Boroditsky, Lera",COGS 11 - Minds & Brains (A00),WI24,154 (29.22%),3.32 (B+),3.89,4.63,4.35,4.57,cogs11
+"Boyle, Mary E. T.",COGS 11 - Minds & Brains (A00),FA23,184 (34.24%),3.66 (B+),5.4,4.58,4.33,4.63,cogs11
 "Tseng, Hung-Wei",CSE 142 - Comp Arch Software Perspective (A00),S225,39 (79.49%),3.67 (B+),9.2,4.47,4.34,4.47,cse142
 "Swanson, Steven James",CSE 142 - Comp Arch Software Perspective (A00),WI25,82 (25.61%),3.46 (B+),6.62,4.57,4.22,4.63,cse142
 "Tseng, Hung-Wei",CSE 142 - Comp Arch Software Perspective (A00),S224,34 (88.24%),3.70 (B+),9.43,4.36,4.26,4.51,cse142
 "Porter, Leonard Emerson",CSE 142 - Comp Arch Software Perspective (A00),WI24,153 (72.55%),3.29 (B),8.07,4.37,4.29,4.46,cse142
 "Porter, Leonard Emerson",CSE 142 - Comp Arch Software Perspective (B00),WI24,154 (79.22%),3.36 (B+),7.9,4.5,4.37,4.5,cse142
+"Tu, Zhuowen",COGS 181 - Neural Networks/Deep Learning (A00),WI25,109 (19.27%),3.67 (B+),5.76,4.16,3.76,4.3,cogs181
+"Tu, Zhuowen",COGS 181 - Neural Networks/Deep Learning (A00),WI24,124 (22.58%),3.66 (B+),7.5,4.27,4.11,4.4,cogs181
 "Cao, Yingjun",CSE 11 - Accel. Intro to Programming (A00),S225,58 (36.21%),3.53 (B+),7.1,4.36,4.24,4.54,cse11
 "Cao, Yingjun",CSE 11 - Accel. Intro to Programming (A00),S125,119 (20.17%),3.25 (B),7.17,4.45,4.46,4.56,cse11
 "Ochoa, Benjamin Lawrence",CSE 11 - Accel. Intro to Programming (A00),SP25,317 (18.30%),2.58 (C+),10.86,3.82,3.82,4.28,cse11
@@ -69,11 +130,53 @@ Instructor,Course,Term,Enrolled/ Resp Rate,Avg Grade Received,Avg Hours Worked,L
 "Soosai Raj, Adalbert Geral",CSE 11 - Accel. Intro to Programming (B00),FA23,196 (83.16%),3.67 (B+),7.16,4.46,4.47,4.73,cse11
 "Cao, Yingjun",CSE 11 - Accel. Intro to Programming (A00),S223,23 (65.22%),3.27 (B),8.33,4.12,4.08,4.45,cse11
 "Cao, Yingjun",CSE 11 - Accel. Intro to Programming (A00),S123,41 (21.95%),2.92 (B-),8.89,4.44,4.24,4.56,cse11
+"Jernigan, Terry Lynne","COGS 178 - Genes, Brains & Behavior (A00)",SP24,71 (11.27%),3.86 (A-),1.86,3.97,4.17,4.27,cogs178
+"Gupta, Anjum",COGS 118A - Supvr/Mach Learning Algorithms (A00),S125,105 (3.81%),3.30 (B+),9.0,4.46,,,cogs118a
+"Tu, Zhuowen",COGS 118A - Supvr/Mach Learning Algorithms (A00),FA24,195 (20.00%),3.63 (B+),5.97,4.13,4.06,4.38,cogs118a
+"Gupta, Anjum",COGS 118A - Supvr/Mach Learning Algorithms (A00),S124,145 (11.03%),3.51 (B+),5.67,4.41,4.16,4.38,cogs118a
+"Tu, Zhuowen",COGS 118A - Supvr/Mach Learning Algorithms (A00),FA23,148 (24.32%),3.65 (B+),7.92,4.04,4.03,4.28,cogs118a
+"Gupta, Anjum",COGS 118A - Supvr/Mach Learning Algorithms (A00),S123,56 (57.14%),3.37 (B+),8.13,4.37,4.26,4.41,cogs118a
 "Freund, Yoav",CSE 103 - Practical Intro/Prob & Stats (A00),FA24,97 (64.95%),2.99 (B-),7.05,3.9,3.58,4.06,cse103
 "Freund, Yoav",CSE 103 - Practical Intro/Prob & Stats (A00),FA23,85 (76.47%),3.47 (B+),6.85,3.69,3.61,4.08,cse103
+"Deak, Gedeon O.",COGS 1 - Introduction to Cognitive Sci (A00),SP25,426 (20.19%),3.37 (B+),3.83,4.29,4.09,4.42,cogs1
+"Kiyonaga, Anastasia",COGS 1 - Introduction to Cognitive Sci (A00),WI25,422 (23.70%),3.55 (B+),3.96,4.38,4.2,4.55,cogs1
+"Beatty-Martinez, Anne",COGS 1 - Introduction to Cognitive Sci (A00),FA24,500 (65.60%),3.61 (B+),3.48,4.54,4.49,4.61,cogs1
+"Boyle, Mary E. T.",COGS 1 - Introduction to Cognitive Sci (A00),SP24,497 (24.14%),3.66 (B+),2.73,4.47,4.38,4.57,cogs1
+"Kiyonaga, Anastasia",COGS 1 - Introduction to Cognitive Sci (A00),WI24,416 (30.77%),3.52 (B+),3.31,4.03,3.91,4.32,cogs1
+"Beatty-Martinez, Anne",COGS 1 - Introduction to Cognitive Sci (A00),FA23,439 (74.72%),3.80 (A-),4.89,4.25,4.22,4.47,cogs1
+"Guo, Philip J",COGS 124 - HCI Technical Systems Research (A00),FA23,27 (14.81%),3.92 (A-),5.0,4.63,4.5,4.56,cogs124
+"Liu, Jingwei",COGS 20 - Exploring the Musical Mind (A00),S225,10 (30.00%),3.89 (A-),8.33,4.33,4.0,4.3,cogs20
+"Borgo, David Garcia",COGS 20 - Exploring the Musical Mind (A00),S125,14 (50.00%),3.83 (A-),5.57,4.54,4.46,4.5,cogs20
+"Borgo, David Garcia",COGS 20 - Exploring the Musical Mind (A00),S224,10 (80.00%),4.00 (A),4.0,4.74,4.65,4.62,cogs20
+"Borgo, David Garcia",COGS 20 - Exploring the Musical Mind (A00),FA23,25 (60.00%),3.57 (B+),5.67,4.4,4.48,4.53,cogs20
+"Kiyonaga, Anastasia",COGS 165 - Neuroimaging of Cognition (A00),FA24,48 (29.17%),3.88 (A-),4.0,4.14,4.29,4.5,cogs165
+"Kiyonaga, Anastasia",COGS 165 - Neuroimaging of Cognition (A00),WI24,61 (31.15%),3.73 (A-),4.68,3.71,3.34,4.24,cogs165
 "Weibel, Nadir",CSE 165 - 3D User Interaction (A00),SP25,31 (41.94%),4.00 (A),11.23,4.48,4.56,4.6,cse165
 "Weibel, Nadir",CSE 165 - 3D User Interaction (A00),SP24,43 (18.60%),3.86 (A-),10.38,3.47,3.35,4.1,cse165
+"Hoffman, Drew Ellen",COGS 14B - Intro. to Statistical Analysis (A00),S225,61 (9.84%),3.79 (A-),4.0,4.6,4.82,4.9,cogs14b
+"Hoffman, Drew Ellen",COGS 14B - Intro. to Statistical Analysis (A00),S125,63 (15.87%),3.88 (A-),7.0,4.48,4.38,4.56,cogs14b
+"Hoffman, Drew Ellen",COGS 14B - Intro. to Statistical Analysis (A00),SP25,177 (19.21%),3.20 (B),3.36,4.14,4.15,4.39,cogs14b
+"Hoffman, Drew Ellen",COGS 14B - Intro. to Statistical Analysis (A00),WI25,216 (19.44%),3.31 (B+),4.58,4.23,4.33,4.43,cogs14b
+"Barrera, Steven James",COGS 14B - Intro. to Statistical Analysis (A00),FA24,251 (26.69%),3.21 (B),4.64,4.54,4.45,4.66,cogs14b
+"Hoffman, Drew Ellen",COGS 14B - Intro. to Statistical Analysis (A00),S124,76 (7.89%),3.73 (A-),9.33,4.46,4.29,4.5,cogs14b
+"Hoffman, Drew Ellen",COGS 14B - Intro. to Statistical Analysis (A00),SP24,252 (17.06%),3.56 (B+),4.7,3.74,3.62,4.25,cogs14b
+"Hoffman, Drew Ellen",COGS 14B - Intro. to Statistical Analysis (A00),WI24,226 (24.78%),3.55 (B+),4.04,4.07,4.1,4.41,cogs14b
+"Barrera, Steven James",COGS 14B - Intro. to Statistical Analysis (A00),FA23,257 (27.63%),3.31 (B+),5.77,4.3,4.4,4.63,cogs14b
 "Porter, George M",CSE 124 - Networked Services (A00),SP25,190 (21.05%),3.27 (B),8.98,4.63,4.34,4.63,cse124
+"Fleischer, Jason G",COGS 108 - Data Science in Practice (A00),SP25,351 (46.72%),3.83 (A-),5.59,4.3,4.35,4.51,cogs108
+"Fleischer, Jason G",COGS 108 - Data Science in Practice (B00),SP25,403 (46.15%),3.82 (A-),5.27,4.35,4.36,4.48,cogs108
+"Ellis, Shannon Elizabeth",COGS 108 - Data Science in Practice (A00),WI25,407 (19.66%),3.74 (A-),5.43,4.53,4.49,4.62,cogs108
+"Ellis, Shannon Elizabeth",COGS 108 - Data Science in Practice (B00),WI25,406 (23.65%),3.81 (A-),5.7,4.43,4.42,4.53,cogs108
+"Fleischer, Jason G",COGS 108 - Data Science in Practice (A00),FA24,447 (54.59%),3.77 (A-),5.97,4.31,4.27,4.49,cogs108
+"Fleischer, Jason G",COGS 108 - Data Science in Practice (B00),FA24,387 (52.97%),3.83 (A-),5.61,4.29,4.28,4.48,cogs108
+"Fleischer, Jason G",COGS 108 - Data Science in Practice (A00),SP24,440 (65.91%),3.80 (A-),5.88,4.27,4.25,4.4,cogs108
+"Ellis, Shannon Elizabeth",COGS 108 - Data Science in Practice (A00),WI24,346 (32.08%),3.85 (A-),5.65,4.43,4.45,4.58,cogs108
+"Ellis, Shannon Elizabeth",COGS 108 - Data Science in Practice (A01),WI24,346 (21.10%),3.85 (A-),5.56,4.46,4.47,4.49,cogs108
+"Ellis, Shannon Elizabeth",COGS 108 - Data Science in Practice (B00),WI24,353 (24.36%),3.88 (A-),5.57,4.36,4.4,4.55,cogs108
+"Ellis, Shannon Elizabeth",COGS 108 - Data Science in Practice (B01),WI24,353 (16.15%),3.88 (A-),6.0,4.5,4.53,4.53,cogs108
+"Fleischer, Jason G",COGS 108 - Data Science in Practice (A00),FA23,421 (58.19%),3.85 (A-),6.37,4.26,4.31,4.44,cogs108
+"Fleischer, Jason G",COGS 108 - Data Science in Practice (B00),FA23,307 (59.61%),3.85 (A-),6.4,4.22,4.24,4.47,cogs108
+"Simpkins, Charles Alexander",COGS 108 - Data Science in Practice (A00),S123,174 (19.54%),3.93 (A-),7.42,4.35,4.31,4.4,cogs108
 "Briones, Jor-el Thomas Caparas",CSE 20 - Discrete Mathematics (A00),S225,26 (26.92%),3.22 (B),10.0,3.91,3.54,3.63,cse20
 "Sirupurapu, Vikram",CSE 20 - Discrete Mathematics (B00),S125,33 (21.21%),3.16 (B),8.57,4.09,3.81,4.14,cse20
 "Jones, Miles E",CSE 20 - Discrete Mathematics (A00),SP25,185 (25.95%),3.15 (B),5.89,4.29,4.2,4.38,cse20
@@ -86,12 +189,24 @@ Instructor,Course,Term,Enrolled/ Resp Rate,Avg Grade Received,Avg Hours Worked,L
 "Briones, Jor-el Thomas Caparas",CSE 20 - Discrete Mathematics (A00),S223,25 (60.00%),2.93 (B-),8.67,4.12,4.05,4.22,cse20
 "Borkowski, Michael Humes",CSE 20 - Discrete Mathematics (A00),S123,24 (16.67%),3.50 (B+),7.5,4.21,4.13,4.75,cse20
 "McAuley, Julian John",CSE 153 - Machine Learning for Music (A00),SP25,166 (63.25%),3.44 (B+),7.16,4.29,4.12,4.46,cse153
+"Gupta, Anjum",COGS 186 - Genetic Algorithms (A00),S123,36 (55.56%),3.18 (B),8.5,4.63,4.59,4.82,cogs186
+"Ellis, Shannon Elizabeth",COGS 169 - Genetic Information/Behavior (A00),FA24,52 (25.00%),3.54 (B+),4.54,4.6,4.69,4.83,cogs169
+"Ellis, Shannon Elizabeth",COGS 169 - Genetic Information/Behavior (A00),FA23,60 (28.33%),3.48 (B+),6.18,4.59,4.54,4.82,cogs169
 "Kastner, Ryan Charles",CSE 145 - Embedded Systems Design Proj (A00),SP25,28 (14.29%),3.94 (A-),13.0,5.0,5.0,5.0,cse145
 "Kastner, Ryan Charles",CSE 145 - Embedded System Design Project (A00),SP24,29 (34.48%),3.98 (A-),12.1,4.62,4.67,4.56,cse145
 "Kastner, Ryan Charles",CSE 145 - Embedded System Design Project (A00),SP23,18 (16.67%),3.76 (A-),10.0,4.0,4.73,5.0,cse145
 "Powell, Thomas Allan",CSE 112 - Advanced Software Engineering (A00),SP24,129 (13.95%),3.50 (B+),5.22,4.23,4.08,4.58,cse112
 "Rotenberg, Steven Paul",CSE 169 - Computer Animation (A00),WI25,35 (34.29%),3.49 (B+),9.33,4.75,4.52,4.52,cse169
 "Rotenberg, Steven Paul",CSE 169 - Computer Animation (A00),WI24,32 (25.00%),3.59 (B+),10.0,4.72,4.44,4.47,cse169
+"Hoffman, Drew Ellen",COGS 112 - Humor (A00),SP25,184 (11.96%),3.79 (A-),4.18,4.53,4.39,4.47,cogs112
+"Hoffman, Drew Ellen",COGS 112 - Humor (A00),FA24,192 (16.15%),3.75 (A-),3.4,4.13,4.06,4.34,cogs112
+"Hoffman, Drew Ellen",COGS 112 - Humor (A00),SP24,178 (21.91%),3.68 (B+),3.42,4.54,4.51,4.58,cogs112
+"Delgado, Tania",COGS 153 - Language Comprehension (A00),S225,47 (17.02%),3.40 (B+),4.25,4.43,4.31,4.63,cogs153
+"Delgado, Tania",COGS 153 - Language Comprehension (A00),WI25,134 (23.13%),3.30 (B),4.17,4.4,4.42,4.63,cogs153
+"Delgado, Tania",COGS 153 - Language Comprehension (A00),S224,67 (11.94%),3.15 (B),6.0,4.36,4.25,4.29,cogs153
+"Beatty-Martinez, Anne",COGS 153 - Language Comprehension (A00),WI24,136 (72.06%),3.63 (B+),4.0,4.47,4.47,4.58,cogs153
+"Trott, Sean Thomas",COGS 153 - Language Comprehension (A00),FA23,117 (23.93%),3.63 (B+),5.0,4.51,4.5,4.61,cogs153
+"Delgado, Tania",COGS 153 - Language Comprehension (A00),S123,74 (60.81%),3.50 (B+),6.22,4.48,4.39,4.53,cogs153
 "Dubnov, Shlomo",CSE 190 - Top/Computer Sci & Engineering (A00),S125,24 (16.67%),3.68 (B+),8.0,3.47,3.56,3.46,cse190
 "Grier, Daniel T",CSE 190 - Top/Computer Sci & Engineering (A00),SP25,43 (20.93%),2.96 (B-),6.78,4.26,4.22,4.28,cse190
 "Soosai Raj, Adalbert Geral",CSE 190 - Top/Computer Sci & Engineering (B00),SP25,95 (77.89%),3.91 (A-),6.11,4.84,4.75,4.86,cse190
@@ -113,11 +228,30 @@ Instructor,Course,Term,Enrolled/ Resp Rate,Avg Grade Received,Avg Hours Worked,L
 "Shalev, Aaron D",CSE 190 - Top/Computer Sci & Engineering (E00),FA23,44 (18.18%),3.56 (B+),9.38,4.84,4.38,4.68,cse190
 "Dubnov, Shlomo",CSE 190 - Top/Computer Sci & Engineering (A00),S123,26 (11.54%),2.99 (B-),10.0,4.42,3.82,4.55,cse190
 "Riek, Laurel D",CSE 176A - Healthcare Robotics (A00),SP23,30 (10.00%),3.79 (A-),8.33,4.75,4.75,5.0,cse176a
+"Nunez, Rafael E",COGS 152 - Cognitive Foundations of Math (A00),FA23,35 (28.57%),2.27 (C),6.5,3.53,3.26,3.95,cogs152
 "Ramamoorthi, Ravi",CSE 168 - Computer Graphics II:Rendering (A00),SP25,28 (42.86%),3.57 (B+),10.75,4.48,4.49,4.68,cse168
 "Ramamoorthi, Ravi",CSE 168 - Computer Graphics II:Rendering (A00),SP24,37 (51.35%),3.67 (B+),13.21,4.64,4.37,4.5,cse168
+"Rossano, Federico",COGS 144 - Social Cognition (A00),WI25,44 (18.18%),3.37 (B+),3.5,4.25,4.28,4.47,cogs144
+"Rossano, Federico",COGS 144 - Social Cognition (A00),SP24,50 (32.00%),3.84 (A-),4.13,4.63,4.5,4.66,cogs144
 "McAuley, Julian John",CSE 153R - Machine Learning for Music (A00),SP25,341 (67.45%),3.35 (B+),6.99,4.22,4.12,4.47,cse153r
+"Johnson, Christine M.",COGS 17 - Neurobiology of Cognition (A00),SP25,438 (22.83%),3.56 (B+),4.59,4.16,4.09,4.38,cogs17
+"Johnson, Christine M.",COGS 17 - Neurobiology of Cognition (A00),WI25,412 (28.40%),3.53 (B+),4.53,4.27,4.16,4.4,cogs17
+"Johnson, Christine M.",COGS 17 - Neurobiology of Cognition (A00),FA24,442 (32.81%),3.49 (B+),4.79,4.27,4.12,4.38,cogs17
+"Johnson, Christine M.",COGS 17 - Neurobiology of Cognition (A00),SP24,429 (21.68%),3.31 (B+),4.13,4.3,4.21,4.44,cogs17
+"Johnson, Christine M.",COGS 17 - Neurobiology of Cognition (A00),WI24,397 (29.22%),3.34 (B+),4.59,4.21,4.11,4.29,cogs17
+"Johnson, Christine M.",COGS 17 - Neurobiology of Cognition (A00),FA23,430 (31.16%),3.39 (B+),6.21,4.24,4.16,4.4,cogs17
 "Moshiri, Niema",CSE 6R - Intr/CompSci&Obj-Ori:Python (A00),SP25,144 (43.06%),3.37 (B+),4.4,4.4,4.4,4.46,cse6r
 "Moshiri, Niema",CSE 6R - Intr/CompSci&Obj-Ori:Python (A00),WI24,98 (32.65%),2.14 (C),6.16,3.97,3.91,4.33,cse6r
+"Rosselli Del Turco, Emilia",DSGN 1 - Design of Everyday Things (A00),S125,19 (21.05%),3.52 (B+),5.5,4.55,4.69,4.73,dsgn1
+"Klemmer, Scott R",DSGN 1 - Design of Everyday Things (A00),SP25,218 (25.23%),3.32 (B+),5.52,2.89,2.45,3.15,dsgn1
+"Meyer, Michael Wayne",DSGN 1 - Design of Everyday Things (A00),WI25,110 (26.36%),3.63 (B+),5.37,4.27,4.07,4.39,dsgn1
+"Meyer, Michael Wayne",DSGN 1 - Design of Everyday Things (A00),FA24,158 (27.85%),3.64 (B+),5.42,4.26,3.98,4.34,dsgn1
+"Rill, Bryan",DSGN 1 - Design of Everyday Things (A00),S124,65 (61.54%),3.17 (B),8.18,4.03,3.51,4.19,dsgn1
+"Klemmer, Scott R",DSGN 1 - Design of Everyday Things (A00),SP24,104 (30.77%),3.33 (B+),5.13,2.76,2.41,2.98,dsgn1
+"Meyer, Michael Wayne",DSGN 1 - Design of Everyday Things (A00),WI24,168 (33.93%),3.60 (B+),6.21,4.48,4.42,4.46,dsgn1
+"Meyer, Michael Wayne",DSGN 1 - Design of Everyday Things (A00),FA23,154 (43.51%),3.67 (B+),7.54,3.95,3.62,4.28,dsgn1
+"Klemmer, Scott R",DSGN 1 - Design of Everyday Things (B00),FA23,54 (22.22%),3.46 (B+),6.67,2.63,2.49,2.61,dsgn1
+"Rill, Bryan",DSGN 1 - Design of Everyday Things (A00),S223,50 (66.00%),3.25 (B),7.12,4.33,4.26,4.31,dsgn1
 "Chandraker, Manmohan Krishna",CSE 152A - Intro to Comp Vision I (A00),WI25,145 (66.90%),3.51 (B+),7.33,4.4,4.2,4.39,cse152a
 "Ochoa, Benjamin Lawrence",CSE 152A - Intro to Comp Vision I (A00),FA24,124 (26.61%),2.79 (B-),8.82,4.11,3.91,4.42,cse152a
 "Chandraker, Manmohan Krishna",CSE 152A - Intro to Comp Vision I (A00),WI24,155 (58.71%),3.52 (B+),9.21,4.59,4.29,4.63,cse152a
@@ -152,10 +286,29 @@ Instructor,Course,Term,Enrolled/ Resp Rate,Avg Grade Received,Avg Hours Worked,L
 "Impagliazzo, Russell",CSE 21 - Math/Algorithm&Systems Analys (A00),FA23,356 (46.63%),3.14 (B),8.57,3.18,3.03,4.0,cse21
 "Braun, Oliver",CSE 21 - Math/Algorithm&Systems Analys (A00),S223,,2.44 (C+),7.0,4.54,4.52,4.6,cse21
 "Briones, Jor-el Thomas Caparas",CSE 21 - Math/Algorithm&Systems Analys (A00),S123,60 (56.67%),3.59 (B+),8.24,4.03,3.91,4.22,cse21
+"Simpkins, Charles Alexander",COGS 109 - Modeling & Data Analysis (A00),S123,45 (15.56%),3.95 (A-),6.43,4.75,4.36,4.64,cogs109
 "Voelker, Geoffrey M.",CSE 125 - Software Sys Design & Implemnt (A00),SP25,36 (30.56%),4.00 (A),14.18,4.9,4.93,4.98,cse125
 "Voelker, Geoffrey M.",CSE 125 - Software Sys Design & Implemnt (A00),SP24,35 (22.86%),3.99 (A-),12.13,4.89,4.9,4.93,cse125
+"Boyle, Mary E. T.",COGS 187A - Usability & Info. Architecture (A00),S225,24 (33.33%),3.83 (A-),6.0,4.7,4.59,4.56,cogs187a
+"Allen, Michael Gordon",COGS 187A - Usability & Info. Architecture (A00),SP25,189 (13.23%),3.94 (A-),4.48,3.7,3.59,3.96,cogs187a
+"Kirsh, David Joel",COGS 187A - Usability & Info. Architecture (A00),FA24,158 (16.46%),3.69 (B+),6.58,4.05,3.93,4.38,cogs187a
+"Boyle, Mary E. T.",COGS 187A - Usability & Info. Architecture (A00),S224,60 (35.00%),3.92 (A-),8.68,4.38,4.25,4.42,cogs187a
+"Boyle, Mary E. T.",COGS 187A - Usability & Info. Architecture (A00),S223,72 (36.11%),3.94 (A-),9.0,4.49,4.32,4.32,cogs187a
+"Chiba, Andrea",COGS 164 - Neurobiology of Motivation (A00),WI25,94 (15.96%),3.77 (A-),4.86,4.5,4.51,4.54,cogs164
+"Chiba, Andrea",COGS 164 - Neurobiology of Motivation (A00),WI24,99 (19.19%),3.77 (A-),4.33,4.42,4.41,4.63,cogs164
 "Tullsen, Dean Michael",CSE 148 - Adv Processor Arch Design Proj (A00),WI25,17 (58.82%),3.85 (A-),12.78,4.5,4.31,4.42,cse148
 "Tullsen, Dean Michael",CSE 148 - Adv Processor Arch Design Proj (A00),WI24,24 (41.67%),3.79 (A-),12.6,4.82,4.79,4.62,cse148
+"Robles, Emily Kara",COGS 172 - Brain Disorders and Cognition (A00),S125,40 (52.50%),3.69 (B+),4.58,4.55,4.51,4.56,cogs172
+"Greene, Deanna Jacquelyn",COGS 172 - Brain Disorders and Cognition (B00),SP25,219 (26.03%),3.48 (B+),4.48,4.7,4.53,4.64,cogs172
+"Robles, Emily Kara",COGS 172 - Brain Disorders and Cognition (A00),S124,49 (59.18%),3.31 (B+),5.44,4.61,4.54,4.44,cogs172
+"Greene, Deanna Jacquelyn",COGS 172 - Brain Disorders and Cognition (A00),WI24,193 (25.91%),3.25 (B),4.76,4.75,4.61,4.75,cogs172
+"Provenzano, Emily Kara",COGS 172 - Brain Disorders and Cognition (A00),S123,44 (47.73%),3.47 (B+),6.43,4.71,4.68,4.81,cogs172
+"Klemmer, Scott R",COGS 125 - Advanced Interaction Design (A00),SP25,34 (14.71%),3.58 (B+),3.0,3.2,3.5,4.15,cogs125
+"Klemmer, Scott R",COGS 125 - Advanced Interaction Design (A00),FA24,26 (11.54%),3.47 (B+),5.67,4.5,4.18,4.17,cogs125
+"Klemmer, Scott R",COGS 125 - Advanced Interaction Design (A00),SP24,58 (44.83%),3.47 (B+),3.77,3.63,3.5,3.81,cogs125
+"Johnson, Christine M.",COGS 102A - Cognitive Perspectives (A00),S225,15 (20.00%),3.13 (B),5.67,4.47,4.42,4.25,cogs102a
+"Allen, Michael Gordon",COGS 102A - Cognitive Perspectives (A00),SP25,158 (10.76%),3.68 (B+),4.53,4.18,4.15,4.16,cogs102a
+"Johnson, Christine M.",COGS 102A - Cognitive Perspectives (A00),S224,19 (15.79%),2.92 (B-),3.67,2.58,2.92,3.75,cogs102a
 "Shang, Jingbo",CSE 109 - Intro to Programming Contests (A00),FA24,31 (25.81%),(N/A),5.86,4.34,4.0,3.88,cse109
 "Gao, Sicun",CSE 150B - AI: Search and Reasoning (A00),SP25,305 (20.00%),3.72 (A-),7.14,4.76,4.72,4.77,cse150b
 "Gao, Sicun",CSE 150B - AI: Search and Reasoning (A00),SP24,361 (27.70%),3.86 (A-),7.61,4.64,4.56,4.66,cse150b
@@ -164,10 +317,34 @@ Instructor,Course,Term,Enrolled/ Resp Rate,Avg Grade Received,Avg Hours Worked,L
 "Polikarpova, Nadezhda",CSE 130 - Progrmng Lang:Princpl&Paradigm (A00),SP24,196 (23.98%),3.81 (A-),7.74,4.54,4.55,4.7,cse130
 "Jhala, Ranjit",CSE 130 - Progrmng Lang:Princpl&Paradigm (A00),WI24,62 (14.52%),3.41 (B+),7.67,4.58,4.59,4.61,cse130
 "Polikarpova, Nadezhda",CSE 130 - Progrmng Lang:Princpl&Paradigm (A00),FA23,142 (15.49%),3.59 (B+),9.32,4.57,4.49,4.57,cse130
+"Morgan, Eric",COGS 18 - Introduction to Python (A00),S225,57 (12.28%),3.53 (B+),4.14,4.49,4.68,4.61,cogs18
+"Morgan, Eric",COGS 18 - Introduction to Python (A00),S125,43 (23.26%),3.79 (A-),6.0,4.65,4.9,4.79,cogs18
+"Ellis, Shannon Elizabeth",COGS 18 - Introduction to Python (A00),SP25,303 (54.79%),3.47 (B+),5.28,4.48,4.46,4.65,cogs18
+"Ellis, Shannon Elizabeth",COGS 18 - Introduction to Python (B00),SP25,306 (48.69%),3.26 (B),5.36,4.42,4.44,4.6,cogs18
+"Morgan, Eric",COGS 18 - Introduction to Python (A00),WI25,340 (25.00%),3.69 (B+),4.76,4.34,4.29,4.54,cogs18
+"Morgan, Eric",COGS 18 - Introduction to Python (A00),FA24,331 (27.79%),3.53 (B+),5.51,4.2,4.2,4.52,cogs18
+"Morgan, Eric",COGS 18 - Introduction to Python (B00),FA24,323 (25.08%),3.52 (B+),5.3,4.21,4.12,4.5,cogs18
+"Morgan, Eric",COGS 18 - Introduction to Python (A00),S224,59 (10.17%),2.96 (B-),6.33,4.79,4.83,4.83,cogs18
+"Ellis, Shannon Elizabeth",COGS 18 - Introduction to Python (A00),SP24,307 (34.53%),3.27 (B),5.21,4.64,4.58,4.75,cogs18
+"Ellis, Shannon Elizabeth",COGS 18 - Introduction to Python (B00),SP24,286 (33.92%),3.34 (B+),5.62,4.53,4.54,4.74,cogs18
+"Fleischer, Jason G",COGS 18 - Introduction to Python (A00),WI24,308 (29.22%),3.14 (B),5.29,4.32,4.18,4.45,cogs18
+"Hempel, Brian",COGS 18 - Introduction to Python (B00),WI24,324 (28.70%),3.10 (B),4.97,4.39,4.31,4.55,cogs18
+"Morgan, Eric",COGS 18 - Introduction to Python (A00),FA23,303 (30.36%),3.40 (B+),6.36,4.06,3.97,4.33,cogs18
+"Hempel, Brian",COGS 18 - Introduction to Python (B00),FA23,202 (48.51%),3.21 (B),6.02,4.32,4.19,4.48,cogs18
+"Morgan, Eric",COGS 18 - Introduction to Python (A00),S223,85 (17.65%),3.34 (B+),6.67,4.52,4.43,4.62,cogs18
+"Morgan, Eric",COGS 18 - Introduction to Python (A00),S123,82 (10.98%),3.05 (B),7.22,3.85,3.88,4.57,cogs18
 "Chern, Albert Ren-Haur",CSE 167 - Computer Graphics (A00),WI25,179 (80.45%),3.77 (A-),7.27,4.34,4.21,4.44,cse167
 "Li, Tzumao",CSE 167 - Computer Graphics (A00),FA24,137 (30.66%),3.77 (A-),7.71,4.65,4.6,4.71,cse167
 "Ramamoorthi, Ravi",CSE 167 - Computer Graphics (A00),WI24,164 (30.49%),2.98 (B-),9.69,4.31,4.08,4.4,cse167
 "Li, Tzumao",CSE 167 - Computer Graphics (A00),FA23,171 (36.84%),3.71 (A-),8.25,4.59,4.48,4.62,cse167
+"Kirsh, David Joel",COGS 187B - Practicum in Pro Web Design (A00),WI25,106 (34.91%),3.67 (B+),8.06,4.35,4.09,4.19,cogs187b
+"Kirsh, David Joel",COGS 187B - Practicum in Pro Web Design (A00),WI24,86 (18.60%),3.67 (B+),9.63,3.48,3.39,3.48,cogs187b
+"Fleischer, Jason G",COGS 188 - AI Algorithms (A00),WI25,117 (29.06%),3.75 (A-),8.03,3.97,3.8,4.15,cogs188
+"Fleischer, Jason G",COGS 188 - AI Algorithms (A00),SP24,98 (52.04%),3.65 (B+),7.47,4.21,4.01,4.4,cogs188
+"Shannon, Kyle Michael",COGS 8 - Hands-On Computing (A00),WI24,35 (51.43%),3.50 (B+),2.89,4.04,4.06,4.46,cogs8
+"Shannon, Kyle Michael",COGS 8 - Hands-On Computing (A00),FA23,36 (58.33%),3.60 (B+),5.24,4.3,4.31,4.54,cogs8
+"Hollan, James D.",COGS 126 - Thinking with Computers (A00),WI25,8 (50.00%),3.89 (A-),8.0,4.75,4.69,4.69,cogs126
+"Hollan, James D.",COGS 126 - Thinking with Computers (A00),SP24,37 (13.51%),3.50 (B+),6.6,3.75,3.9,4.35,cogs126
 "Eldon, John",CSE 141L - Project/Computer Architecture (A00),S125,44 (6.82%),3.69 (B+),12.33,4.67,4.58,4.67,cse141l
 "Eldon, John",CSE 141L - Project/Computer Architecture (A00),SP25,174 (13.79%),2.75 (B-),7.59,3.98,3.84,4.48,cse141l
 "Eldon, John",CSE 141L - Project/Computer Architecture (A00),FA24,85 (17.65%),2.88 (B-),6.14,3.61,3.78,4.48,cse141l
@@ -176,13 +353,19 @@ Instructor,Course,Term,Enrolled/ Resp Rate,Avg Grade Received,Avg Hours Worked,L
 "Eldon, John",CSE 141L - Project/Computer Architecture (A00),FA23,47 (17.02%),3.34 (B+),7.5,4.1,4.25,4.53,cse141l
 "Eldon, John",CSE 141L - Project/Computer Architecture (B00),FA23,59 (15.25%),3.34 (B+),7.22,3.82,4.14,4.39,cse141l
 "Eldon, John",CSE 141L - Project/Computer Architecture (A00),S223,100 (3.00%),3.00 (B),10.0,4.58,4.67,4.75,cse141l
+"Deak, Gedeon O.",COGS 110 - The Developing Mind (A00),FA24,80 (18.75%),2.76 (B-),5.86,3.71,3.65,4.2,cogs110
+"Deak, Gedeon O.",COGS 110 - The Developing Mind (A00),FA23,73 (19.18%),2.93 (B-),6.07,4.0,3.84,4.22,cogs110
 "Powell, Thomas Allan",CSE 110 - Software Engineering (A00),SP25,332 (22.29%),3.40 (B+),9.4,3.82,3.49,4.28,cse110
 "Griswold, William G.",CSE 110 - Software Engineering (A00),WI25,183 (48.09%),2.77 (B-),10.35,3.77,3.59,4.3,cse110
 "Coblenz, Michael J",CSE 110 - Software Engineering (A00),FA24,192 (46.35%),3.63 (B+),9.89,3.91,3.73,4.42,cse110
 "Powell, Thomas Allan",CSE 110 - Software Engineering (A00),SP24,372 (82.80%),3.63 (B+),9.11,3.79,3.56,4.25,cse110
 "Griswold, William G.",CSE 110 - Software Engineering (A00),WI24,191 (63.87%),3.27 (B),10.47,3.76,3.63,4.2,cse110
 "Miranda, Gregory Joseph",CSE 110 - Software Engineering (A00),FA23,248 (22.98%),3.50 (B+),9.56,4.03,3.83,4.32,cse110
+"Hollan, James D.",DSGN 2 - Designing Your Future Self (A00),SP25,14 (50.00%),3.93 (A-),4.33,4.82,4.82,4.89,dsgn2
+"Hollan, James D.",DSGN 2 - Designing Your Future Self (A00),WI24,17 (17.65%),3.41 (B+),3.0,3.92,4.0,4.58,dsgn2
 "Rosing, Tajana Simunic",CSE 147 - Intro to Embedded Systems (A00),WI25,53 (86.79%),3.90 (A-),7.36,4.12,3.91,4.27,cse147
+"Johnson, Christine M.",COGS 184 - Modeling/Evolution of Cognitn (A00),SP25,30 (13.33%),2.80 (B-),10.5,4.94,4.06,4.44,cogs184
+"Johnson, Christine M.",COGS 184 - Modeling/Evolution of Cognitn (A00),SP24,31 (9.68%),3.12 (B),7.0,4.25,3.58,3.92,cogs184
 "Chandraker, Manmohan Krishna",CSE 152B - Intro to Comp Vision II (A00),SP25,48 (77.08%),3.64 (B+),6.71,4.34,4.23,4.52,cse152b
 "Paturi, Ramamohan",CSE 106 - Discrete/Cont Optimization (A00),FA24,54 (22.22%),3.55 (B+),8.36,4.35,4.29,4.52,cse106
 "Paturi, Ramamohan",CSE 106 - Discrete/Cont Optimization (A00),FA23,23 (17.39%),3.92 (A-),8.75,3.94,3.56,4.13,cse106
@@ -193,10 +376,48 @@ Instructor,Course,Term,Enrolled/ Resp Rate,Avg Grade Received,Avg Hours Worked,L
 "Bellare, Mihir",CSE 107 - Intro to Modern Cryptography (A00),SP24,83 (27.71%),2.55 (C+),7.0,4.2,4.11,4.58,cse107
 "Heninger, Nadia A",CSE 107 - Intro to Modern Cryptography (A00),WI24,45 (37.78%),3.06 (B),5.71,4.8,4.44,4.62,cse107
 "Bellare, Mihir",CSE 107 - Intro to Modern Cryptography (A00),FA23,51 (29.41%),2.41 (C+),6.67,4.39,4.05,4.46,cse107
+"Voytek, Bradley Thomas",COGS 193 - CogSci Career Seminar (A00),WI25,41 (19.51%),(N/A),1.75,4.88,4.72,4.78,cogs193
+"Voytek, Bradley Thomas",COGS 193 - CogSci Career Seminar (A00),WI24,34 (26.47%),(N/A),2.11,4.69,4.73,4.85,cogs193
+"Tu, Zhuowen",COGS 185 - Adv. Machine Learning Methods (A00),SP25,86 (13.95%),3.61 (B+),5.83,4.21,4.0,4.41,cogs185
+"Tu, Zhuowen",COGS 185 - Adv. Machine Learning Methods (A00),SP24,94 (20.21%),3.86 (A-),7.28,4.33,4.08,4.49,cogs185
+"Bergen, Benjamin",COGS 15 - Uncensored Intro. to Language (A00),FA24,123 (49.59%),3.49 (B+),2.87,4.61,4.55,4.67,cogs15
+"Bergen, Benjamin",COGS 15 - Uncensored Intro. to Language (A00),FA23,112 (56.25%),3.50 (B+),4.92,4.52,4.4,4.6,cogs15
 "Moshiri, Niema",CSE 185 - Advanced Bioinformatics Lab (A00),SP25,104 (50.00%),3.84 (A-),4.2,4.64,4.76,4.7,cse185
 "Gymrek, Melissa Ann",CSE 185 - Advanced Bioinformatics Lab (A00),SP24,115 (38.26%),3.70 (A-),7.05,4.68,4.61,4.67,cse185
+"Hoffman, Drew Ellen",COGS 111 - Beauty and the Brain (A00),WI25,182 (15.38%),3.60 (B+),3.74,4.32,4.31,4.46,cogs111
+"Hoffman, Drew Ellen",COGS 111 - Beauty and the Brain (A00),FA24,186 (20.43%),3.62 (B+),3.54,4.64,4.62,4.69,cogs111
+"Hoffman, Drew Ellen",COGS 111 - Beauty and the Brain (A00),WI24,206 (24.76%),3.65 (B+),4.06,4.37,4.27,4.58,cogs111
+"Hoffman, Drew Ellen",COGS 111 - Beauty and the Brain (A00),FA23,176 (22.73%),3.70 (A-),5.38,4.49,4.46,4.65,cogs111
+"Bergen, Benjamin",COGS 150 - Large Language Models/CogSci (A00),S225,28 (17.86%),2.99 (B-),5.8,4.56,4.3,4.5,cogs150
+"Trott, Sean Thomas",COGS 150 - Large Language Models/CogSci (A00),SP25,142 (10.56%),3.79 (A-),3.57,4.78,4.7,4.72,cogs150
+"Bergen, Benjamin",COGS 150 - Large Language Models/CogSci (A00),S224,30 (20.00%),3.68 (B+),6.0,4.58,4.38,4.58,cogs150
+"Trott, Sean Thomas",COGS 150 - Large Language Models/CogSci (A00),WI24,51 (29.41%),3.91 (A-),4.07,4.42,4.34,4.53,cogs150
 "Bonjour, Trevor",CSE 193 - Introduction to CS Research (A00),FA24,54 (37.04%),3.85 (A-),9.26,4.45,4.39,4.72,cse193
 "Huang, Ruanqianqian",CSE 193 - Introduction to CS Research (A00),FA23,53 (54.72%),3.80 (A-),8.62,4.43,4.56,4.72,cse193
+"Shannon, Kyle Michael",COGS 9 - Introduction to Data Science (A00),S225,28 (10.71%),3.52 (B+),6.33,4.87,5.0,5.0,cogs9
+"Shannon, Kyle Michael",COGS 9 - Introduction to Data Science (A00),S125,54 (25.93%),3.82 (A-),5.71,4.4,4.25,4.41,cogs9
+"Shannon, Kyle Michael",COGS 9 - Introduction to Data Science (A00),SP25,240 (43.75%),3.55 (B+),4.38,4.11,4.12,4.32,cogs9
+"Burrows, Dominic",COGS 9 - Introduction to Data Science (A00),WI25,315 (47.94%),3.49 (B+),3.96,4.17,4.16,4.41,cogs9
+"Voytek, Bradley Thomas",COGS 9 - Introduction to Data Science (A00),FA24,314 (48.73%),3.73 (A-),3.78,4.59,4.55,4.65,cogs9
+"Shannon, Kyle Michael",COGS 9 - Introduction to Data Science (A00),SP24,290 (57.93%),3.63 (B+),3.8,4.15,4.22,4.4,cogs9
+"Khosla, Meenakshi",COGS 9 - Introduction to Data Science (A00),WI24,317 (54.26%),3.87 (A-),3.51,3.8,3.83,4.17,cogs9
+"Voytek, Bradley Thomas",COGS 9 - Introduction to Data Science (A00),FA23,246 (32.52%),3.67 (B+),5.38,4.47,4.44,4.63,cogs9
+"Jones, Cameron Robert",COGS 9 - Introduction to Data Science (A00),S123,36 (69.44%),3.69 (B+),6.88,4.18,4.03,4.49,cogs9
+"Guo, Philip J",COGS 127 - Data-Driven UX/Product Design (A00),WI25,250 (14.00%),3.95 (A-),6.3,4.4,4.53,4.53,cogs127
+"D'Amico, Alessandro",COGS 189 - Brain Computer Interfaces (A00),S225,28 (10.71%),3.36 (B+),5.0,4.47,3.92,4.17,cogs189
+"D'Amico, Alessandro",COGS 189 - Brain Computer Interfaces (A00),S125,33 (15.15%),3.30 (B+),7.0,4.2,4.35,4.65,cogs189
+"De Sa, Virginia",COGS 189 - Brain Computer Interfaces (A00),WI25,182 (15.93%),3.78 (A-),5.39,4.35,4.34,4.64,cogs189
+"Buyruk, Parla",COGS 14A - Intro. to Research Methods (A00),S225,69 (26.09%),3.96 (A-),5.44,4.49,4.53,4.61,cogs14a
+"Buyruk, Parla",COGS 14A - Intro. to Research Methods (A00),S125,69 (31.88%),3.97 (A-),5.29,4.6,4.76,4.68,cogs14a
+"Barrera, Steven James",COGS 14A - Intro. to Research Methods (A00),SP25,386 (28.76%),3.51 (B+),3.6,4.51,4.48,4.6,cogs14a
+"Barrera, Steven James",COGS 14A - Intro. to Research Methods (A00),WI25,327 (27.22%),3.37 (B+),3.33,4.58,4.56,4.66,cogs14a
+"Creel, Sarah",COGS 14A - Intro. to Research Methods (A00),FA24,378 (29.89%),3.13 (B),4.24,4.16,4.14,4.39,cogs14a
+"Chkhaidze, Ana",COGS 14A - Intro. to Research Methods (A00),S224,87 (18.39%),3.73 (A-),5.0,4.41,4.33,4.34,cogs14a
+"Chkhaidze, Ana",COGS 14A - Intro. to Research Methods (A00),S124,83 (15.66%),3.83 (A-),4.54,4.52,4.25,4.43,cogs14a
+"Barrera, Steven James",COGS 14A - Intro. to Research Methods (A00),SP24,445 (27.64%),3.43 (B+),3.8,4.5,4.46,4.54,cogs14a
+"Barrera, Steven James",COGS 14A - Intro. to Research Methods (A00),WI24,367 (27.25%),3.35 (B+),3.54,4.37,4.41,4.63,cogs14a
+"Creel, Sarah",COGS 14A - Intro. to Research Methods (A00),FA23,371 (26.68%),3.11 (B),5.51,3.98,3.97,4.31,cogs14a
+"Zhang, Shan",COGS 14A - Intro. to Research Methods (A00),S123,164 (20.12%),3.62 (B+),5.94,4.43,4.54,4.58,cogs14a
 "Ochoa, Benjamin Lawrence",CSE 166 - Image Processing (A00),FA23,52 (23.08%),2.97 (B-),10.0,4.21,3.65,4.19,cse166
 "Ding, Yufei",CSE 131 - Compiler Construction (A00),SP25,34 (76.47%),3.60 (B+),8.27,4.57,4.2,4.36,cse131
 "Ding, Yufei",CSE 131 - Compiler Construction (A00),SP24,39 (76.92%),3.79 (A-),9.9,4.39,4.22,4.32,cse131
@@ -211,9 +432,36 @@ Instructor,Course,Term,Enrolled/ Resp Rate,Avg Grade Received,Avg Hours Worked,L
 "Vaccaro, Kristen Marie",CSE 170 - Human-Comp Interaction Design (A00),FA23,67 (25.37%),3.55 (B+),6.18,3.16,2.68,3.74,cse170
 "Vaccaro, Kristen Marie",CSE 170 - Human-Comp Interaction Design (B00),FA23,82 (32.93%),3.47 (B+),6.67,3.8,3.56,4.15,cse170
 "Munyaka, Imani N. S.","CSE 194 - Race, Gender & Computing (A00)",FA23,47 (34.04%),3.59 (B+),6.25,3.49,3.23,4.15,cse194
+"Creel, Sarah",COGS 157 - Music and the Mind (B00),SP25,49 (12.24%),3.52 (B+),3.67,4.38,4.17,4.35,cogs157
+"Creel, Sarah",COGS 157 - Music and the Mind (A00),SP23,66 (15.15%),3.48 (B+),7.5,3.8,3.42,4.32,cogs157
+"Irani, Lilly C",DSGN 119 - Design at Large (A00),SP25,80 (7.50%),(N/A),1.33,4.5,4.62,4.58,dsgn119
+"Vaccaro, Kristen Marie",DSGN 119 - Design at Large (A00),WI25,86 (16.28%),(N/A),1.17,3.72,3.86,4.24,dsgn119
+"Hollan, James D.",DSGN 119 - Design at Large (A00),SP24,73 (10.96%),(N/A),1.29,4.41,4.05,4.42,dsgn119
+"Aronoff-Spencer, Eliah Sea",DSGN 119 - Design at Large (A00),WI24,82 (15.85%),(N/A),1.46,4.46,4.52,4.53,dsgn119
+"Aronoff-Spencer, Eliah Sea",DSGN 119 - Design at Large (A00),FA23,75 (18.67%),(N/A),0.0,4.28,3.81,4.1,dsgn119
 "Minnes Kemp, Mor Mia",CSE 90 - Undergraduate Seminar (A00),SP24,43 (25.58%),(N/A),1.22,4.64,4.56,4.64,cse90
 "Minnes Kemp, Mor Mia",CSE 90 - Undergraduate Seminar (A00),WI24,37 (27.03%),(N/A),2.0,4.68,4.68,4.77,cse90
 "Minnes Kemp, Mor Mia",CSE 90 - Undergraduate Seminar (A00),SP23,55 (30.91%),(N/A),1.18,4.45,4.68,4.78,cse90
+"Morgan, Eric",COGS 100 - Cyborgs Now and in the Future (A00),SP25,293 (19.80%),3.93 (A-),4.63,4.07,4.15,4.34,cogs100
+"Allen, Michael Gordon",COGS 100 - Cyborgs Now and in the Future (A00),WI25,308 (14.61%),3.66 (B+),4.29,4.04,3.99,4.15,cogs100
+"Allen, Michael Gordon",COGS 100 - Cyborgs Now and in the Future (A00),FA24,219 (15.07%),3.68 (B+),4.56,3.83,3.97,4.22,cogs100
+"Allen, Michael Gordon",COGS 100 - Cyborgs Now and in the Future (A00),S224,68 (66.18%),3.71 (A-),6.09,4.31,4.2,4.26,cogs100
+"Allen, Michael Gordon",COGS 100 - Cyborgs Now and in the Future (A00),S124,69 (65.22%),3.56 (B+),7.51,4.38,4.27,4.46,cogs100
+"Allen, Michael Gordon",COGS 100 - Cyborgs Now and in the Future (A00),SP24,275 (52.00%),3.51 (B+),4.25,3.99,3.98,4.3,cogs100
+"Morgan, Eric",COGS 100 - Cyborgs Now and in the Future (A00),WI24,333 (24.62%),3.77 (A-),4.22,4.07,3.96,4.26,cogs100
+"Morgan, Eric",COGS 100 - Cyborgs Now and in the Future (A00),FA23,278 (45.68%),3.74 (A-),5.44,3.83,3.65,4.28,cogs100
+"Allen, Michael Gordon",COGS 100 - Cyborgs Now and in the Future (A00),S223,89 (30.34%),3.57 (B+),7.41,4.04,4.07,4.39,cogs100
+"Allen, Michael Gordon",COGS 100 - Cyborgs Now and in the Future (A00),S123,76 (52.63%),3.58 (B+),8.13,4.03,3.87,4.15,cogs100
+"Robles, Emily Kara","COGS 101B - Learning, Memory and Attention (A00)",S225,58 (63.79%),3.88 (A-),5.51,4.6,4.55,4.56,cogs101b
+"Barrera, Steven James","COGS 101B - Learning, Memory and Attention (A00)",SP25,250 (14.40%),3.53 (B+),3.97,4.72,4.67,4.72,cogs101b
+"Allen, Michael Gordon","COGS 101B - Learning, Memory and Attention (A00)",WI25,204 (13.24%),3.80 (A-),4.54,4.43,4.54,4.5,cogs101b
+"Allen, Michael Gordon","COGS 101B - Learning, Memory and Attention (A00)",FA24,190 (15.79%),3.71 (A-),4.1,4.27,4.27,4.26,cogs101b
+"Robles, Emily Kara","COGS 101B - Learning, Memory and Attention (B00)",S224,49 (63.27%),3.63 (B+),5.45,4.56,4.5,4.63,cogs101b
+"Allen, Michael Gordon","COGS 101B - Learning, Memory and Attention (B00)",S124,66 (51.52%),3.63 (B+),4.58,4.47,4.42,4.45,cogs101b
+"Barrera, Steven James","COGS 101B - Learning, Memory and Attention (A00)",SP24,306 (23.86%),3.61 (B+),3.82,4.65,4.61,4.65,cogs101b
+"Allen, Michael Gordon","COGS 101B - Learning, Memory and Attention (A00)",WI24,218 (19.72%),3.46 (B+),4.38,4.1,4.14,4.32,cogs101b
+"Provenzano, Emily Kara","COGS 101B - Learning, Memory and Attention (A00)",S223,36 (44.44%),3.23 (B),5.94,4.28,4.14,4.4,cogs101b
+"Allen, Michael Gordon","COGS 101B - Learning, Memory and Attention (A00)",S123,77 (46.75%),3.32 (B+),6.53,4.22,4.21,4.34,cogs101b
 "Eldon, John",CSE 140L - Digital Systems Laboratory (A00),SP25,111 (11.71%),3.29 (B),7.33,3.52,3.6,4.04,cse140l
 "Eldon, John",CSE 140L - Digital Systems Laboratory (A00),WI25,160 (30.63%),3.55 (B+),7.94,3.99,4.0,4.36,cse140l
 "Orailoglu, Alex",CSE 140L - Digital Systems Laboratory (A00),FA24,62 (24.19%),2.80 (B-),12.36,3.4,2.6,3.9,cse140l
@@ -222,8 +470,13 @@ Instructor,Course,Term,Enrolled/ Resp Rate,Avg Grade Received,Avg Hours Worked,L
 "Eldon, John",CSE 140L - Digital Systems Laboratory (A00),WI24,162 (29.63%),3.46 (B+),6.49,3.95,3.88,4.31,cse140l
 "Eldon, John",CSE 140L - Digital Systems Laboratory (A00),FA23,189 (28.04%),3.77 (A-),8.02,4.06,4.03,4.3,cse140l
 "Eldon, John",CSE 140L - Digital Systems Laboratory (A00),S123,90 (10.00%),3.46 (B+),9.44,4.28,4.23,4.56,cse140l
+"Greene, Deanna Jacquelyn",COGS 116 - Developmental Cog Neuroscience (A00),WI25,68 (20.59%),3.57 (B+),4.14,4.7,4.68,4.64,cogs116
+"Greene, Deanna Jacquelyn",COGS 116 - Developmental Cog Neuroscience (A00),FA23,92 (27.17%),3.42 (B+),5.0,4.68,4.55,4.7,cogs116
 "Bafna, Vineet",CSE 182 - Biological Databases (A00),SP24,48 (25.00%),3.21 (B),8.17,3.5,3.38,4.17,cse182
+"Pineda, Jaime A","COGS 174GS - Drugs: Brain, Mind and Culture (A00)",S124,28 (17.86%),3.79 (A-),3.8,4.05,2.63,3.75,cogs174gs
 "Deutsch, Alin Bernard",CSE 132B - Database System Applications (A00),SP24,58 (20.69%),4.00 (A),7.83,3.96,3.96,4.34,cse132b
+"Boroditsky, Lera","COGS 12 - Language, Culture & Cognition (A00)",SP24,73 (27.40%),3.80 (A-),3.4,4.25,3.94,4.15,cogs12
+"Rill, Bryan","COGS 12 - Language, Culture & Cognition (A00)",FA23,61 (57.38%),3.73 (A-),6.0,4.48,4.4,4.53,cogs12
 "Eldon, John",CSE 141 - Intro/Computer Architecture (A00),S125,65 (7.69%),3.15 (B),8.2,3.32,3.5,3.9,cse141
 "Pannuto, Patrick William",CSE 141 - Intro/Computer Architecture (A00),SP25,187 (21.39%),3.30 (B+),6.47,4.56,4.52,4.53,cse141
 "Zhao, Jishen",CSE 141 - Intro/Computer Architecture (A00),FA24,85 (69.41%),3.68 (B+),6.44,4.37,4.33,4.55,cse141
@@ -263,6 +516,14 @@ Instructor,Course,Term,Enrolled/ Resp Rate,Avg Grade Received,Avg Hours Worked,L
 "Moshiri, Niema",CSE 100 - Advanced Data Structures (A00),FA24,202 (49.50%),3.43 (B+),7.12,4.54,4.51,4.63,cse100
 "Sahoo, Debashis",CSE 100 - Advanced Data Structures (A00),SP24,311 (63.67%),3.08 (B),7.55,4.39,4.38,4.5,cse100
 "Moshiri, Alexander Niema",CSE 100 - Advanced Data Structures (A00),FA23,247 (74.49%),3.27 (B),7.9,4.55,4.54,4.65,cse100
+"Gupta, Anjum",COGS 118B - Intro to Machine Learning (A00),S225,88 (6.82%),3.34 (B+),8.83,4.3,4.17,4.46,cogs118b
+"De Sa, Virginia",COGS 118B - Intro to Machine Learning (A00),FA24,137 (16.79%),3.43 (B+),8.05,4.29,4.09,4.54,cogs118b
+"Gupta, Anjum",COGS 118B - Intro to Machine Learning (A00),S224,126 (11.90%),3.64 (B+),6.73,4.22,4.02,4.38,cogs118b
+"Fleischer, Jason G",COGS 118B - Intro to Machine Learning (A00),WI24,210 (61.43%),3.46 (B+),7.55,3.89,3.63,4.26,cogs118b
+"Gupta, Anjum",COGS 118B - Intro to Machine Learning (A00),S223,116 (53.45%),3.37 (B+),7.98,4.19,4.25,4.48,cogs118b
+"Boyle, Mary E. T.",COGS 2 - Cognitive NeuroEconomics (A00),SP25,289 (16.61%),3.52 (B+),3.58,4.38,4.3,4.37,cogs2
+"Boyle, Mary E. T.",COGS 2 - Cognitive NeuroEconomics (A00),WI24,290 (32.07%),3.72 (A-),2.87,4.48,4.34,4.62,cogs2
+"Boyle, Mary E. T.",COGS 2 - Cognitive NeuroEconomics (A00),S123,27 (11.11%),3.55 (B+),5.0,5.0,5.0,5.0,cogs2
 "Ousterhout, Amy",CSE 120 - Operating Systems Principles (A00),SP25,303 (28.38%),2.85 (B-),9.57,4.41,4.22,4.64,cse120
 "Pasquale, Joseph",CSE 120 - Operating Systems Principles (A00),WI25,166 (27.11%),3.03 (B),12.34,4.52,4.23,4.67,cse120
 "Voelker, Geoffrey M.",CSE 120 - Princ/Computer Operating Systm (A00),FA24,253 (30.83%),2.88 (B-),11.83,4.73,4.65,4.76,cse120
@@ -302,14 +563,42 @@ Instructor,Course,Term,Enrolled/ Resp Rate,Avg Grade Received,Avg Hours Worked,L
 "Moshiri, Niema",CSE 100R - Advanced Data Structures (A00),SP24,158 (66.46%),2.84 (B-),7.52,4.61,4.56,4.67,cse100r
 "Moshiri, Niema",CSE 100R - Advanced Data Structures (A00),WI24,402 (73.63%),3.21 (B),8.0,4.61,4.57,4.7,cse100r
 "Moshiri, Alexander Niema",CSE 100R - Advanced Data Structures (A00),FA23,247 (71.26%),3.21 (B),7.91,4.55,4.52,4.62,cse100r
+"Tung, Janet C",COGS 177 - Space and Time in the Brain (A00),WI25,116 (30.17%),3.35 (B+),4.71,4.55,4.37,4.65,cogs177
+"Tung, Janet C",COGS 177 - Space and Time in the Brain (A00),WI24,119 (37.82%),3.34 (B+),4.73,4.42,4.38,4.68,cogs177
+"Tung, Janet C",COGS 177 - Space and Time in the Brain (A00),S223,67 (19.40%),2.88 (B-),7.31,4.04,3.62,4.51,cogs177
+"Chiba, Andrea",COGS 107C - Cognitive Neuroscience (A00),SP25,227 (10.57%),3.91 (A-),3.92,4.78,4.76,4.81,cogs107c
+"Chiba, Andrea",COGS 107C - Cognitive Neuroscience (A00),SP24,154 (25.32%),3.77 (A-),4.13,4.58,4.6,4.63,cogs107c
+"Xia, Haijun",COGS 120 - Interaction Design (A00),WI25,253 (65.61%),3.60 (B+),5.3,4.4,4.28,4.5,cogs120
+"E, Jane Little",COGS 120 - Interaction Design (A00),FA23,223 (58.30%),3.68 (B+),6.38,3.71,3.64,4.26,cogs120
 "Powell, Thomas Allan",CSE 134B - Web Client Languages (A00),S125,36 (13.89%),3.39 (B+),8.2,4.52,4.53,4.95,cse134b
 "Powell, Thomas Allan",CSE 134B - Web Client Languages (A00),WI25,148 (19.59%),3.24 (B),8.85,4.16,3.72,4.44,cse134b
 "Powell, Thomas Allan",CSE 134B - Web Client Languages (A00),FA23,135 (25.19%),3.28 (B),8.38,4.48,4.21,4.55,cse134b
 "Powell, Thomas Allan",CSE 134B - Web Client Languages (A00),S123,56 (8.93%),2.69 (C+),10.0,4.75,4.69,4.81,cse134b
+"Mooshagian, Eric Frederick",COGS 107B - Systems Neuroscience (A00),S125,90 (10.00%),3.59 (B+),5.0,4.48,4.5,4.53,cogs107b
+"Mooshagian, Eric Frederick",COGS 107B - Systems Neuroscience (A00),SP25,212 (15.09%),3.69 (B+),4.93,4.37,4.34,4.56,cogs107b
+"Mooshagian, Eric Frederick",COGS 107B - Systems Neuroscience (A00),WI25,250 (15.60%),3.39 (B+),3.67,4.05,4.05,4.29,cogs107b
+"Mooshagian, Eric Frederick",COGS 107B - Systems Neuroscience (A00),FA24,189 (18.52%),3.47 (B+),5.0,3.79,3.99,4.32,cogs107b
+"Mooshagian, Eric Frederick",COGS 107B - Systems Neuroscience (A00),S224,102 (6.86%),3.56 (B+),3.29,3.93,3.96,4.07,cogs107b
+"Mooshagian, Eric Frederick",COGS 107B - Systems Neuroscience (A00),S124,59 (8.47%),3.58 (B+),9.0,4.0,3.85,4.15,cogs107b
+"Mooshagian, Eric Frederick",COGS 107B - Systems Neuroscience (A00),SP24,316 (18.35%),3.53 (B+),5.07,3.94,3.94,4.22,cogs107b
+"Mooshagian, Eric Frederick",COGS 107B - Systems Neuroscience (A00),WI24,409 (24.94%),3.49 (B+),4.66,3.85,3.93,4.3,cogs107b
+"Mooshagian, Eric Frederick",COGS 107B - Systems Neuroscience (A00),S223,92 (7.61%),3.26 (B),6.43,3.78,4.0,4.3,cogs107b
+"Saygin, Ayse P",COGS 160 - Seminar on Special Topics (A00),SP25,26 (11.54%),3.96 (A-),2.33,3.92,3.67,4.0,cogs160
+"Saygin, Ayse P",COGS 160 - Seminar on Special Topics (B00),SP25,33 (9.09%),3.78 (A-),3.67,4.75,4.91,4.92,cogs160
+"Kirsh, David Joel",COGS 160 - Seminar on Special Topics (A00),FA24,22 (36.36%),3.81 (A-),5.57,4.13,3.9,4.54,cogs160
+"Boyle, Mary E. T.",COGS 160 - Seminar on Special Topics (B00),FA24,41 (19.51%),3.10 (B),6.71,4.47,3.68,4.19,cogs160
+"Kirsh, David Joel",COGS 160 - Seminar on Special Topics (B00),WI24,24 (29.17%),3.80 (A-),4.71,3.5,3.0,4.07,cogs160
+"Deak, Gedeon O.",COGS 160 - Seminar on Special Topics (A00),FA23,9 (44.44%),3.78 (A-),10.0,4.57,4.73,4.57,cogs160
+"Ellis, Shannon Elizabeth",COGS 137 - Practical Data Science in R (A00),FA24,95 (28.42%),3.85 (A-),7.62,4.75,4.66,4.73,cogs137
+"Ellis, Shannon Elizabeth",COGS 137 - Practical Data Science in R (A00),FA23,85 (35.29%),3.78 (A-),7.0,4.56,4.56,4.68,cogs137
 "Kastner, Ryan Charles",CSE 160 - Intro to Parallel Computing (A00),WI25,280 (33.21%),3.33 (B+),9.01,4.4,4.18,4.5,cse160
 "Kastner, Ryan Charles",CSE 160 - Intro to Parallel Computing (A00),WI24,231 (30.74%),3.36 (B+),7.34,4.43,4.25,4.52,cse160
 "McAuley, Julian John",CSE 158R - Recommender Sys&Web Mining (A00),FA24,493 (24.14%),3.85 (A-),6.63,4.4,4.47,4.61,cse158r
 "McAuley, Julian John",CSE 158R - Recommender Sys&Web Mining (A00),FA23,408 (22.55%),3.70 (A-),7.75,4.39,4.37,4.56,cse158r
+"Boyle, Mary E. T.",COGS 3 - Introduction to Computing (A00),S125,37 (21.62%),3.62 (B+),6.75,4.68,4.53,4.66,cogs3
+"Boyle, Mary E. T.",COGS 3 - Introduction to Computing (A00),S124,87 (12.64%),3.56 (B+),9.55,4.48,4.14,4.5,cogs3
+"Boyle, Mary E. T.",COGS 3 - Introduction to Computing (A00),FA23,193 (25.91%),3.63 (B+),7.2,4.27,4.06,4.4,cogs3
+"Boyle, Mary E. T.",COGS 3 - Introduction to Computing (A00),S223,85 (16.47%),3.60 (B+),7.5,4.23,4.04,4.36,cogs3
 "Braun, Oliver",CSE 101 - Design & Analysis of Algorithm (A00),S225,28 (75.00%),2.96 (B-),8.3,4.59,4.6,4.69,cse101
 "Jones, Miles E",CSE 101 - Design & Analysis of Algorithm (B00),S225,82 (14.63%),3.08 (B),10.33,4.48,4.42,4.64,cse101
 "Impagliazzo, Russell",CSE 101 - Design & Analysis of Algorithm (A00),SP25,245 (28.98%),2.75 (B-),8.23,3.84,3.73,4.31,cse101
@@ -324,6 +613,8 @@ Instructor,Course,Term,Enrolled/ Resp Rate,Avg Grade Received,Avg Hours Worked,L
 "Braun, Oliver",CSE 101 - Design & Analysis of Algorithm (A00),S223,,3.20 (B),9.0,4.45,4.39,4.47,cse101
 "Jones, Miles E",CSE 101 - Design & Analysis of Algorithm (B00),S223,50 (12.00%),2.93 (B-),6.67,4.42,4.33,4.63,cse101
 "Briones, Jor-el Thomas Caparas",CSE 101 - Design & Analysis of Algorithm (A00),S123,38 (76.32%),3.63 (B+),8.57,4.16,4.02,4.18,cse101
+"Mukamel, Eran A",COGS 118C - Neural Signal Processing (A00),WI25,93 (20.43%),3.67 (B+),5.33,4.29,4.23,4.61,cogs118c
+"Mukamel, Eran A",COGS 118C - Neural Signal Processing (A00),WI24,74 (21.62%),3.40 (B+),7.0,4.61,4.47,4.59,cogs118c
 "Qin, Lianhui",CSE 156 - Statistical NLP (A00),WI25,122 (60.66%),3.88 (A-),6.64,3.93,3.97,4.4,cse156
 "Nakashole, Ndapandula",CSE 156 - Statistical NLP (A00),FA24,140 (76.43%),3.61 (B+),7.39,4.29,4.08,4.5,cse156
 "Nakashole, Ndapandula",CSE 156 - Statistical NLP (A00),SP24,184 (19.02%),3.76 (A-),6.24,4.17,4.11,4.44,cse156
@@ -339,6 +630,15 @@ Instructor,Course,Term,Enrolled/ Resp Rate,Avg Grade Received,Avg Hours Worked,L
 "Rosing, Tajana Simunic",CSE 140 - Component&Desgn Tech/Digtl Sys (B00),WI24,82 (85.37%),2.92 (B-),7.46,4.47,4.23,4.52,cse140
 "Chin, Bryan W.",CSE 140 - Component&Desgn Tech/Digtl Sys (A00),FA23,189 (68.78%),2.98 (B-),8.77,4.15,4.06,4.31,cse140
 "Eldon, John",CSE 140 - Component&Desgn Tech/Digtl Sys (A00),S123,95 (11.58%),3.25 (B),7.27,4.07,4.16,4.5,cse140
+"Deak, Gedeon O.",COGS 87 - First-year Seminar (A00),WI25,15 (46.67%),(N/A),1.57,4.42,4.54,4.48,cogs87
+"Deak, Gedeon O.",COGS 87 - First-year Seminar (A00),FA24,17 (64.71%),(N/A),1.73,4.23,3.97,4.46,cogs87
+"Fleischer, Jason G",COGS 87 - First-year Seminar (B00),SP24,20 (60.00%),(N/A),1.0,4.68,4.67,4.79,cogs87
+"Deak, Gedeon O.",COGS 87 - First-year Seminar (A00),FA23,15 (40.00%),(N/A),4.17,4.3,4.0,4.25,cogs87
+"Fleischer, Jason G",COGS 87 - First-year Seminar (B00),FA23,19 (47.37%),(N/A),0.56,4.42,4.41,4.48,cogs87
+"Rossano, Federico",COGS 13 - Fld Methods: Cognition in Wild (A00),SP25,306 (13.73%),3.46 (B+),4.38,4.16,4.03,4.23,cogs13
+"Kaufhold, Stephan Paul",COGS 13 - Fld Methods: Cognition in Wild (A00),WI25,409 (22.49%),3.53 (B+),4.31,4.34,4.32,4.48,cogs13
+"Kaufhold, Stephan Paul",COGS 13 - Fld Methods: Cognition in Wild (A00),FA24,414 (18.60%),3.56 (B+),4.19,4.32,4.37,4.54,cogs13
+"Rossano, Federico",COGS 13 - Fld Methods: Cognition in Wild (A00),WI24,425 (18.12%),3.58 (B+),4.55,4.12,4.08,4.32,cogs13
 "Gupta, Amarnath",CSE 132C - Database System Implementation (A00),WI24,9 (33.33%),3.27 (B),5.0,4.67,4.73,4.89,cse132c
 "Moshiri, Niema",CSE 87 - First-year Seminar (A00),SP25,20 (60.00%),(N/A),1.17,4.62,4.68,4.76,cse87
 "Moshiri, Niema",CSE 87 - First-year Seminar (A00),WI25,13 (53.85%),(N/A),1.0,4.85,4.81,4.8,cse87
@@ -350,12 +650,22 @@ Instructor,Course,Term,Enrolled/ Resp Rate,Avg Grade Received,Avg Hours Worked,L
 "Moshiri, Niema",CSE 87 - First-year Seminar (B00),WI24,19 (57.89%),(N/A),1.18,4.74,4.77,4.67,cse87
 "Cottrell, Garrison W",CSE 87 - First-year Seminar (A00),FA23,14 (64.29%),(N/A),1.11,4.0,3.92,4.19,cse87
 "Moshiri, Alexander Niema",CSE 87 - First-year Seminar (B00),FA23,19 (47.37%),(N/A),2.78,4.03,3.83,4.0,cse87
+"Delgado, Tania",COGS 101C - Language (A00),S225,55 (5.45%),3.81 (A-),5.67,4.93,4.83,5.0,cogs101c
+"Cooperrider, Kensy A",COGS 101C - Language (A00),SP25,144 (18.75%),3.02 (B),2.93,4.38,4.21,4.34,cogs101c
+"Delgado, Tania",COGS 101C - Language (A00),S224,57 (17.54%),3.53 (B+),4.4,4.25,4.25,4.26,cogs101c
+"Truman, Alyssa",COGS 101C - Language (A00),S124,30 (53.33%),3.54 (B+),5.13,4.22,4.2,4.45,cogs101c
+"Trott, Sean Thomas",COGS 101C - Language (A00),SP24,179 (17.88%),3.82 (A-),2.81,4.7,4.6,4.65,cogs101c
+"Delgado, Tania",COGS 101C - Language (A00),S223,52 (53.85%),3.51 (B+),6.07,4.54,4.56,4.54,cogs101c
+"Truman, Alyssa",COGS 101C - Language (A00),S123,16 (18.75%),3.17 (B),5.0,4.42,4.5,4.42,cogs101c
 "Minnes Kemp, Mor Mia",CSE 91 - Perspectives in CSE (B00),SP24,11 (27.27%),(N/A),10.5,4.8,,4.67,cse91
 "Minnes Kemp, Mor Mia",CSE 91 - Perspectives in CSE (B00),WI24,17 (52.94%),(N/A),1.44,4.54,4.68,4.64,cse91
 "Minnes Kemp, Mor Mia",CSE 91 - Perspectives in CSE (C00),WI24,18 (22.22%),(N/A),1.0,5.0,5.0,5.0,cse91
 "Minnes Kemp, Mor Mia",CSE 91 - Perspectives in CSE (A00),FA23,38 (57.89%),(N/A),0.71,4.65,4.7,4.81,cse91
 "Minnes Kemp, Mor Mia",CSE 91 - Perspectives in CSE (B00),FA23,53 (54.72%),(N/A),0.52,4.61,4.56,4.69,cse91
 "Minnes Kemp, Mor Mia",CSE 91 - Perspectives in CSE (C00),FA23,23 (52.17%),(N/A),0.83,4.49,4.59,4.77,cse91
+"Xia, Haijun",DSGN 118 - Dsgn Creativity/Productivity (A00),FA24,44 (18.18%),3.84 (A-),6.25,4.44,4.45,4.66,dsgn118
+"Xia, Haijun",DSGN 118 - Dsgn Creativity/Productivity (A00),WI24,47 (23.40%),3.88 (A-),6.27,4.02,4.05,3.98,dsgn118
+"Xia, Haijun",DSGN 118 - Dsgn Creativity/Productivity (A00),FA23,45 (22.22%),3.83 (A-),9.0,4.6,4.59,4.7,dsgn118
 "Politz, Joseph Gibbs",CSE 29 - Sys Prog and Software Tools (A00),S125,79 (21.52%),3.45 (B+),7.41,4.64,4.63,4.72,cse29
 "Weng, Olivia",CSE 29 - Sys Prog and Software Tools (B00),S125,17 (70.59%),2.66 (C+),9.25,4.59,4.54,4.65,cse29
 "Solares, Edwin A",CSE 29 - Sys Prog and Software Tools (A00),SP25,59 (67.80%),2.95 (B-),7.89,4.04,3.86,4.1,cse29
@@ -366,5 +676,7 @@ Instructor,Course,Term,Enrolled/ Resp Rate,Avg Grade Received,Avg Hours Worked,L
 "Shalev, Aaron D",CSE 29 - Sys Prog and Software Tools (B00),FA24,135 (40.74%),2.75 (B-),8.57,4.55,4.15,4.56,cse29
 "Soosai Raj, Adalbert Geral",CSE 29 - Sys Prog and Software Tools (C00),SP24,175 (82.86%),2.86 (B-),8.05,4.45,4.36,4.66,cse29
 "Shalev, Aaron D",CSE 29 - Sys Prog and Software Tools (D00),SP24,37 (64.86%),2.68 (C+),7.83,4.63,4.39,4.7,cse29
+"Creel, Sarah",COGS 156 - Language Development (A00),WI25,71 (21.13%),2.79 (B-),4.0,4.38,4.22,4.49,cogs156
+"Creel, Sarah",COGS 156 - Language Development (A00),WI24,68 (27.94%),2.73 (B-),3.84,4.26,3.97,4.36,cogs156
 "Swanson, Steven James",CSE 176E - Robotic Sys Design & Implemnt (A00),FA24,15 (40.00%),3.97 (A-),11.67,4.71,4.5,4.61,cse176e
 "Swanson, Steven James",CSE 176E - Robotic Sys Design & Implemnt (A00),FA23,22 (27.27%),3.74 (A-),10.0,4.79,4.74,4.91,cse176e
