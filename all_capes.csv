@@ -1,0 +1,370 @@
+Instructor,Course,Term,Enrolled/ Resp Rate,Avg Grade Received,Avg Hours Worked,Learning Average*,Structure Average*,Environment Average*,course_title
+"Weibel, Nadir",CSE 118 - Ubiquitous Computing (A00),FA24,18 (22.22%),3.77 (A-),5.5,4.44,4.69,4.94,cse118
+"Weibel, Nadir",CSE 118 - Ubiquitous Computing (A00),FA23,24 (37.50%),3.81 (A-),8.89,4.14,4.4,4.69,cse118
+"Eldon, John",CSE 30 - Computer Organization (A00),S225,57 (12.28%),3.12 (B),8.71,3.57,3.26,4.29,cse30
+"Chin, Bryan W.",CSE 30 - Computer Organization (A00),SP25,106 (67.92%),2.60 (C+),8.16,4.26,4.08,4.52,cse30
+"Chin, Bryan W.",CSE 30 - Computer Organization (B00),SP25,55 (58.18%),2.57 (C+),8.56,4.42,4.09,4.67,cse30
+"Chin, Bryan W.",CSE 30 - Computer Organization (A00),WI25,102 (55.88%),2.63 (C+),8.83,4.57,4.57,4.72,cse30
+"Porter, Leonard Emerson",CSE 30 - Computer Organization (A00),FA24,83 (68.67%),2.53 (C+),6.66,4.52,4.38,4.6,cse30
+"Porter, Leonard Emerson",CSE 30 - Computer Organization (B00),FA24,54 (74.07%),2.60 (C+),6.4,4.59,4.49,4.68,cse30
+"Eldon, John",CSE 30 - Computer Organiz&Systms Progrm (A00),S224,88 (7.95%),2.53 (C+),11.57,3.93,3.82,4.54,cse30
+"Cao, Yingjun",CSE 30 - Computer Organiz&Systms Progrm (A00),SP24,211 (25.12%),2.10 (C),8.98,4.15,4.0,4.43,cse30
+"Muller, P Keith",CSE 30 - Computer Organiz&Systms Progrm (B00),SP24,201 (25.87%),3.13 (B),9.1,4.32,4.29,4.54,cse30
+"Chin, Bryan W.",CSE 30 - Computer Organiz&Systms Progrm (A00),WI24,201 (75.62%),2.71 (B-),12.3,4.26,4.19,4.5,cse30
+"Chin, Bryan W.",CSE 30 - Computer Organiz&Systms Progrm (A00),FA23,211 (80.57%),2.79 (B-),9.71,4.23,3.98,4.31,cse30
+"Cao, Yingjun",CSE 30 - Computer Organiz&Systms Progrm (B00),FA23,201 (71.64%),2.57 (C+),9.65,4.17,3.92,4.41,cse30
+"Pannuto, Patrick William",CSE 122 - Wireless Networks (A00),WI25,24 (54.17%),3.73 (A-),7.17,4.62,4.4,4.63,cse122
+"Kumar, Rakesh",CSE 175 - Entrepreneurship for Engineers (A00),S225,25 (44.00%),3.30 (B),7.89,4.38,4.11,4.36,cse175
+"Kumar, Rakesh",CSE 175 - Entrepreneurship for Engineers (A00),S125,19 (47.37%),3.47 (B+),8.5,4.31,4.08,4.59,cse175
+"Kumar, Rakesh",CSE 175 - Entrepreneurship for Engineers (A00),SP25,46 (56.52%),3.42 (B+),5.91,4.08,4.11,4.3,cse175
+"Kumar, Rakesh",CSE 175 - Entrepreneurship for Engineers (A00),S124,27 (14.81%),3.44 (B+),5.0,4.63,4.31,4.47,cse175
+"Kumar, Rakesh",CSE 175 - Entrepreneurship for Engineers (A00),SP24,47 (72.34%),3.29 (B),6.94,4.07,3.84,4.25,cse175
+"Kumar, Rakesh",CSE 175 - Entrepreneurship for Engineers (A00),S123,22 (81.82%),3.31 (B+),8.33,4.21,4.04,4.29,cse175
+"Snoeren, Alex C.",CSE 123 - Computer Networks (A00),FA24,102 (35.29%),3.08 (B),13.25,4.62,4.47,4.52,cse123
+"Shalev, Aaron D",CSE 123 - Computer Networks (A00),WI24,69 (28.99%),2.70 (C+),13.3,4.64,4.34,4.56,cse123
+"Snoeren, Alex C.",CSE 123 - Computer Networks (A00),FA23,70 (27.14%),3.12 (B),9.74,4.67,4.29,4.52,cse123
+"Minnes Kemp, Mor Mia",CSE 89 - Intro to CSE Seminar (A00),SP25,12 (41.67%),(N/A),1.0,4.69,4.53,4.73,cse89
+"Minnes Kemp, Mor Mia",CSE 89 - Intro to CSE Seminar (B00),SP25,13 (23.08%),(N/A),1.0,,,4.4,cse89
+"Minnes Kemp, Mor Mia",CSE 89 - Intro to CSE Seminar (A00),WI25,17 (29.41%),(N/A),1.5,4.44,4.43,4.69,cse89
+"Minnes Kemp, Mor Mia",CSE 89 - Intro to CSE Seminar (B00),WI25,26 (42.31%),(N/A),1.0,4.61,4.64,4.62,cse89
+"Minnes Kemp, Mor Mia",CSE 89 - Intro to CSE Seminar (A00),FA24,41 (48.78%),(N/A),1.1,4.73,4.63,4.67,cse89
+"Minnes Kemp, Mor Mia",CSE 89 - Intro to CSE Seminar (B00),FA24,27 (40.74%),(N/A),1.0,4.85,5.0,5.0,cse89
+"Powell, Thomas Allan",CSE 135 - Online Database Analytics Appl (A00),S225,35 (14.29%),3.00 (B),13.8,4.48,4.35,4.8,cse135
+"Ochoa, Benjamin Lawrence",CSE 8B - Intro to Programming 2 (A00),WI25,170 (26.47%),2.65 (C+),9.7,4.08,3.96,4.32,cse8b
+"Miranda, Gregory Joseph",CSE 8B - Intro to Programming 2 (A00),WI24,205 (35.61%),3.40 (B+),6.26,4.16,4.16,4.47,cse8b
+"Ochoa, Benjamin Lawrence",CSE 8B - Intro to Programming 2 (A00),SP23,134 (24.63%),2.47 (C+),8.79,3.98,3.62,4.39,cse8b
+"Solares, Edwin A",CSE 151A - ML: Learning Algorithms (A00),S225,35 (88.57%),3.15 (B),10.8,4.16,3.92,4.28,cse151a
+"Dasgupta, Sanjoy",CSE 151A - ML: Learning Algorithms (A00),SP25,318 (22.64%),3.08 (B),6.8,4.73,4.68,4.71,cse151a
+"Shang, Jingbo",CSE 151A - ML: Learning Algorithms (A00),WI25,339 (48.67%),3.95 (A-),5.88,4.43,4.41,4.57,cse151a
+"Solares, Edwin A",CSE 151A - ML: Learning Algorithms (A00),FA24,192 (60.94%),3.57 (B+),7.81,3.03,2.84,3.5,cse151a
+"Solares, Edwin A",CSE 151A - ML: Learning Algorithms (A00),S124,132 (54.55%),3.48 (B+),9.16,4.04,3.77,4.16,cse151a
+"Solares, Edwin A",CSE 151A - Intro to Machine Learning (A00),WI24,323 (70.28%),3.73 (A-),7.77,3.38,3.13,4.17,cse151a
+"Dasgupta, Sanjoy",CSE 151A - Intro to Machine Learning (A00),FA23,138 (26.81%),3.25 (B),8.71,4.78,4.65,4.72,cse151a
+"Imola, Jacob John",CSE 151A - Intro to Machine Learning (A00),S123,45 (28.89%),2.99 (B-),8.33,4.42,4.19,4.48,cse151a
+"McAuley, Julian John",CSE 158 - Recommender Sys&Web Mining (A00),FA24,192 (22.40%),3.89 (A-),6.8,4.38,4.31,4.51,cse158
+"McAuley, Julian John",CSE 158 - Recommender Sys&Web Mining (A00),FA23,200 (26.00%),3.79 (A-),8.24,4.47,4.5,4.65,cse158
+"Vianu, Victor Dan",CSE 132A - Database System Principles (A00),WI25,170 (19.41%),2.40 (C+),6.16,4.05,3.86,4.35,cse132a
+"Deutsch, Alin Bernard",CSE 132A - Database System Principles (A00),FA24,184 (23.91%),3.31 (B+),6.12,4.06,3.99,4.46,cse132a
+"Vianu, Victor Dan",CSE 132A - Database System Principles (A00),WI24,170 (26.47%),3.03 (B),5.79,4.28,4.2,4.51,cse132a
+"Vianu, Victor Dan",CSE 132A - Database System Principles (A00),FA23,176 (18.75%),3.00 (B-),6.72,4.02,3.88,4.31,cse132a
+"Pevzner, Pavel Arkadjevich",CSE 181 - Molecular Sequence Analysis (A00),WI25,20 (50.00%),3.53 (B+),11.9,4.4,4.05,4.41,cse181
+"Pevzner, Pavel Arkadjevich",CSE 181 - Molecular Sequence Analysis (A00),WI24,31 (29.03%),3.12 (B),12.22,4.69,4.03,3.97,cse181
+"Tseng, Hung-Wei",CSE 142 - Comp Arch Software Perspective (A00),S225,39 (79.49%),3.67 (B+),9.2,4.47,4.34,4.47,cse142
+"Swanson, Steven James",CSE 142 - Comp Arch Software Perspective (A00),WI25,82 (25.61%),3.46 (B+),6.62,4.57,4.22,4.63,cse142
+"Tseng, Hung-Wei",CSE 142 - Comp Arch Software Perspective (A00),S224,34 (88.24%),3.70 (B+),9.43,4.36,4.26,4.51,cse142
+"Porter, Leonard Emerson",CSE 142 - Comp Arch Software Perspective (A00),WI24,153 (72.55%),3.29 (B),8.07,4.37,4.29,4.46,cse142
+"Porter, Leonard Emerson",CSE 142 - Comp Arch Software Perspective (B00),WI24,154 (79.22%),3.36 (B+),7.9,4.5,4.37,4.5,cse142
+"Cao, Yingjun",CSE 11 - Accel. Intro to Programming (A00),S225,58 (36.21%),3.53 (B+),7.1,4.36,4.24,4.54,cse11
+"Cao, Yingjun",CSE 11 - Accel. Intro to Programming (A00),S125,119 (20.17%),3.25 (B),7.17,4.45,4.46,4.56,cse11
+"Ochoa, Benjamin Lawrence",CSE 11 - Accel. Intro to Programming (A00),SP25,317 (18.30%),2.58 (C+),10.86,3.82,3.82,4.28,cse11
+"Cao, Yingjun",CSE 11 - Accel. Intro to Programming (A00),WI25,280 (55.71%),2.84 (B-),9.23,4.23,4.06,4.5,cse11
+"Cao, Yingjun",CSE 11 - Accel. Intro to Programming (A00),FA24,297 (40.07%),2.92 (B-),7.46,4.23,4.0,4.46,cse11
+"Ochoa, Benjamin Lawrence",CSE 11 - Accel. Intro to Programming (B00),FA24,180 (33.33%),2.36 (C+),8.14,4.08,3.99,4.35,cse11
+"Cao, Yingjun",CSE 11 - Accel. Intro to Programming (A00),S224,59 (25.42%),3.17 (B),7.57,4.14,4.45,4.69,cse11
+"Cao, Yingjun",CSE 11 - Accel. Intro to Programming (B00),S224,48 (20.83%),2.84 (B-),6.0,4.59,4.46,4.59,cse11
+"Cao, Yingjun",CSE 11 - Accel. Intro to Programming (A00),S124,85 (8.24%),2.70 (B-),11.71,4.25,4.0,4.27,cse11
+"Ochoa, Benjamin Lawrence",CSE 11 - Accel. Intro to Programming (A00),SP24,322 (22.36%),2.91 (B-),9.48,3.72,3.45,4.08,cse11
+"Miranda, Gregory Joseph",CSE 11 - Accel. Intro to Programming (A00),WI24,296 (29.39%),3.43 (B+),7.15,4.18,4.08,4.41,cse11
+"Soosai Raj, Adalbert Geral",CSE 11 - Accel. Intro to Programming (A00),FA23,387 (77.78%),3.44 (B+),7.64,4.42,4.38,4.7,cse11
+"Soosai Raj, Adalbert Geral",CSE 11 - Accel. Intro to Programming (B00),FA23,196 (83.16%),3.67 (B+),7.16,4.46,4.47,4.73,cse11
+"Cao, Yingjun",CSE 11 - Accel. Intro to Programming (A00),S223,23 (65.22%),3.27 (B),8.33,4.12,4.08,4.45,cse11
+"Cao, Yingjun",CSE 11 - Accel. Intro to Programming (A00),S123,41 (21.95%),2.92 (B-),8.89,4.44,4.24,4.56,cse11
+"Freund, Yoav",CSE 103 - Practical Intro/Prob & Stats (A00),FA24,97 (64.95%),2.99 (B-),7.05,3.9,3.58,4.06,cse103
+"Freund, Yoav",CSE 103 - Practical Intro/Prob & Stats (A00),FA23,85 (76.47%),3.47 (B+),6.85,3.69,3.61,4.08,cse103
+"Weibel, Nadir",CSE 165 - 3D User Interaction (A00),SP25,31 (41.94%),4.00 (A),11.23,4.48,4.56,4.6,cse165
+"Weibel, Nadir",CSE 165 - 3D User Interaction (A00),SP24,43 (18.60%),3.86 (A-),10.38,3.47,3.35,4.1,cse165
+"Porter, George M",CSE 124 - Networked Services (A00),SP25,190 (21.05%),3.27 (B),8.98,4.63,4.34,4.63,cse124
+"Briones, Jor-el Thomas Caparas",CSE 20 - Discrete Mathematics (A00),S225,26 (26.92%),3.22 (B),10.0,3.91,3.54,3.63,cse20
+"Sirupurapu, Vikram",CSE 20 - Discrete Mathematics (B00),S125,33 (21.21%),3.16 (B),8.57,4.09,3.81,4.14,cse20
+"Jones, Miles E",CSE 20 - Discrete Mathematics (A00),SP25,185 (25.95%),3.15 (B),5.89,4.29,4.2,4.38,cse20
+"Jones, Miles E",CSE 20 - Discrete Mathematics (A00),WI25,238 (32.77%),3.14 (B),5.92,4.21,4.16,4.38,cse20
+"Asgarinejad, Fatemeh",CSE 20 - Discrete Mathematics (A00),S224,19 (68.42%),3.36 (B+),7.31,4.33,4.25,4.52,cse20
+"Briones, Jor-el Thomas Caparas",CSE 20 - Discrete Mathematics (A00),S124,42 (38.10%),2.95 (B-),7.5,4.47,4.54,4.64,cse20
+"Minnes Kemp, Mor Mia",CSE 20 - Discrete Mathematics (A00),SP24,198 (23.23%),2.89 (B-),6.43,4.41,4.38,4.53,cse20
+"Borkowski, Michael Humes",CSE 20 - Discrete Mathematics (A00),WI24,181 (34.25%),3.47 (B+),5.69,3.77,3.63,4.03,cse20
+"Jones, Miles E",CSE 20 - Discrete Mathematics (A00),FA23,194 (34.02%),3.05 (B),7.65,4.31,4.24,4.43,cse20
+"Briones, Jor-el Thomas Caparas",CSE 20 - Discrete Mathematics (A00),S223,25 (60.00%),2.93 (B-),8.67,4.12,4.05,4.22,cse20
+"Borkowski, Michael Humes",CSE 20 - Discrete Mathematics (A00),S123,24 (16.67%),3.50 (B+),7.5,4.21,4.13,4.75,cse20
+"McAuley, Julian John",CSE 153 - Machine Learning for Music (A00),SP25,166 (63.25%),3.44 (B+),7.16,4.29,4.12,4.46,cse153
+"Kastner, Ryan Charles",CSE 145 - Embedded Systems Design Proj (A00),SP25,28 (14.29%),3.94 (A-),13.0,5.0,5.0,5.0,cse145
+"Kastner, Ryan Charles",CSE 145 - Embedded System Design Project (A00),SP24,29 (34.48%),3.98 (A-),12.1,4.62,4.67,4.56,cse145
+"Kastner, Ryan Charles",CSE 145 - Embedded System Design Project (A00),SP23,18 (16.67%),3.76 (A-),10.0,4.0,4.73,5.0,cse145
+"Powell, Thomas Allan",CSE 112 - Advanced Software Engineering (A00),SP24,129 (13.95%),3.50 (B+),5.22,4.23,4.08,4.58,cse112
+"Rotenberg, Steven Paul",CSE 169 - Computer Animation (A00),WI25,35 (34.29%),3.49 (B+),9.33,4.75,4.52,4.52,cse169
+"Rotenberg, Steven Paul",CSE 169 - Computer Animation (A00),WI24,32 (25.00%),3.59 (B+),10.0,4.72,4.44,4.47,cse169
+"Dubnov, Shlomo",CSE 190 - Top/Computer Sci & Engineering (A00),S125,24 (16.67%),3.68 (B+),8.0,3.47,3.56,3.46,cse190
+"Grier, Daniel T",CSE 190 - Top/Computer Sci & Engineering (A00),SP25,43 (20.93%),2.96 (B-),6.78,4.26,4.22,4.28,cse190
+"Soosai Raj, Adalbert Geral",CSE 190 - Top/Computer Sci & Engineering (B00),SP25,95 (77.89%),3.91 (A-),6.11,4.84,4.75,4.86,cse190
+"Prithviraj, Ammanabrolu",CSE 190 - Top/Computer Sci & Engineering (C00),SP25,49 (26.53%),3.64 (B+),7.33,4.33,4.27,4.67,cse190
+"Stefan, Deian",CSE 190 - Top/Computer Sci & Engineering (D00),SP25,32 (21.88%),3.11 (B),4.14,4.75,4.32,4.39,cse190
+"Bandeira, Nuno Filipe Cabrita",CSE 190 - Top/Computer Sci & Engineering (A00),WI25,23 (47.83%),3.23 (B),6.0,4.25,4.14,4.33,cse190
+"Shalev, Aaron D",CSE 190 - Top/Computer Sci & Engineering (B00),WI25,48 (43.75%),3.42 (B+),8.9,4.86,4.77,4.76,cse190
+"Ousterhout, Amy",CSE 190 - Top/Computer Sci & Engineering (C00),WI25,49 (26.53%),3.66 (B+),7.77,4.6,4.65,4.59,cse190
+"McAuley, Julian John",CSE 190 - Top/Computer Sci & Engineering (D00),WI25,95 (23.16%),3.89 (A-),5.86,4.47,4.49,4.58,cse190
+"Vaccaro, Kristen Marie",CSE 190 - Top/Computer Sci & Engineering (A00),FA24,79 (58.23%),3.67 (B+),4.46,4.21,3.93,4.26,cse190
+"Coblenz, Michael J",CSE 190 - Top/Computer Sci & Engineering (B00),FA24,13 (53.85%),3.43 (B+),5.33,4.21,3.96,4.46,cse190
+"Dubnov, Shlomo",CSE 190 - Top/Computer Sci & Engineering (A00),S124,26 (15.38%),3.54 (B+),7.67,3.5,4.07,3.71,cse190
+"Grier, Daniel T",CSE 190 - Top/Computer Sci & Engineering (A00),SP24,41 (48.78%),3.33 (B+),7.84,4.41,4.3,4.47,cse190
+"Shah, Anshul Yatin",CSE 190 - Top/Computer Sci & Engineering (C00),SP24,48 (87.50%),3.95 (A-),5.36,4.65,4.68,4.72,cse190
+"Saha, Barna",CSE 190 - Top/Computer Sci & Engineering (D00),SP24,22 (13.64%),3.95 (A-),6.33,4.83,4.82,4.75,cse190
+"Liu, Qipeng",CSE 190 - Top/Computer Sci & Engineering (A00),WI24,37 (13.51%),3.73 (A-),7.0,4.75,4.72,4.7,cse190
+"Coblenz, Michael J",CSE 190 - Top/Computer Sci & Engineering (A00),FA23,10 (50.00%),3.79 (A-),8.0,4.7,4.65,4.8,cse190
+"Bandeira, Nuno Filipe Cabrita",CSE 190 - Top/Computer Sci & Engineering (C00),FA23,17 (29.41%),3.29 (B),6.0,4.65,4.55,4.6,cse190
+"Shalev, Aaron D",CSE 190 - Top/Computer Sci & Engineering (E00),FA23,44 (18.18%),3.56 (B+),9.38,4.84,4.38,4.68,cse190
+"Dubnov, Shlomo",CSE 190 - Top/Computer Sci & Engineering (A00),S123,26 (11.54%),2.99 (B-),10.0,4.42,3.82,4.55,cse190
+"Riek, Laurel D",CSE 176A - Healthcare Robotics (A00),SP23,30 (10.00%),3.79 (A-),8.33,4.75,4.75,5.0,cse176a
+"Ramamoorthi, Ravi",CSE 168 - Computer Graphics II:Rendering (A00),SP25,28 (42.86%),3.57 (B+),10.75,4.48,4.49,4.68,cse168
+"Ramamoorthi, Ravi",CSE 168 - Computer Graphics II:Rendering (A00),SP24,37 (51.35%),3.67 (B+),13.21,4.64,4.37,4.5,cse168
+"McAuley, Julian John",CSE 153R - Machine Learning for Music (A00),SP25,341 (67.45%),3.35 (B+),6.99,4.22,4.12,4.47,cse153r
+"Moshiri, Niema",CSE 6R - Intr/CompSci&Obj-Ori:Python (A00),SP25,144 (43.06%),3.37 (B+),4.4,4.4,4.4,4.46,cse6r
+"Moshiri, Niema",CSE 6R - Intr/CompSci&Obj-Ori:Python (A00),WI24,98 (32.65%),2.14 (C),6.16,3.97,3.91,4.33,cse6r
+"Chandraker, Manmohan Krishna",CSE 152A - Intro to Comp Vision I (A00),WI25,145 (66.90%),3.51 (B+),7.33,4.4,4.2,4.39,cse152a
+"Ochoa, Benjamin Lawrence",CSE 152A - Intro to Comp Vision I (A00),FA24,124 (26.61%),2.79 (B-),8.82,4.11,3.91,4.42,cse152a
+"Chandraker, Manmohan Krishna",CSE 152A - Intro to Comp Vision I (A00),WI24,155 (58.71%),3.52 (B+),9.21,4.59,4.29,4.63,cse152a
+"Chandraker, Manmohan Krishna",CSE 152A - Intro to Comp Vision I (A00),FA23,102 (63.73%),3.58 (B+),8.98,4.54,4.43,4.52,cse152a
+"Jones, Miles E",CSE 105 - Theory of Computation (A00),S225,50 (22.00%),3.43 (B+),8.3,4.63,4.65,4.8,cse105
+"Lovett, Shachar",CSE 105 - Theory of Computation (A00),SP25,302 (68.87%),2.94 (B-),8.08,3.73,3.51,4.15,cse105
+"Minnes Kemp, Mor Mia",CSE 105 - Theory of Computation (A00),WI25,269 (31.97%),2.92 (B-),7.67,4.43,4.37,4.59,cse105
+"Minnes Kemp, Mor Mia",CSE 105 - Theory of Computation (A00),FA24,185 (22.16%),2.82 (B-),7.59,4.47,4.38,4.48,cse105
+"Jones, Miles E",CSE 105 - Theory of Computation (A00),S124,88 (13.64%),2.80 (B-),9.17,4.44,4.53,4.71,cse105
+"Jones, Miles E",CSE 105 - Theory of Computation (B00),S124,89 (10.11%),3.02 (B),9.44,4.83,4.75,4.78,cse105
+"Micciancio, Daniele",CSE 105 - Theory of Computation (A00),SP24,235 (48.94%),2.93 (B-),7.9,3.99,3.76,4.08,cse105
+"Minnes Kemp, Mor Mia",CSE 105 - Theory of Computation (A00),WI24,340 (38.24%),2.99 (B-),8.01,4.52,4.4,4.64,cse105
+"Jones, Miles E",CSE 105 - Theory of Computation (A00),FA23,287 (34.84%),3.24 (B),8.21,4.31,4.3,4.46,cse105
+"Minnes Kemp, Mor Mia",CSE 105 - Theory of Computation (A00),SP23,323 (29.10%),2.94 (B-),9.2,4.17,4.17,4.4,cse105
+"Grier, Daniel T",CSE 105 - Theory of Computation (B00),SP23,90 (30.00%),3.13 (B),8.7,4.39,4.24,4.37,cse105
+"Solares, Edwin A",CSE 150A - AI: Probabilistic Models (A00),S125,28 (53.57%),2.60 (C+),9.64,3.65,3.63,4.09,cse150a
+"Bonjour, Trevor",CSE 150A - AI: Probabilistic Models (A00),SP25,169 (27.22%),3.15 (B),8.93,4.5,4.3,4.56,cse150a
+"Solares, Edwin A",CSE 150A - AI: Probabilistic Models (A00),WI25,110 (36.36%),2.91 (B-),11.31,2.56,2.35,3.11,cse150a
+"Bonjour, Trevor",CSE 150A - AI: Probabilistic Models (A00),FA24,155 (63.23%),3.50 (B+),9.18,4.11,4.02,4.42,cse150a
+"Hogan, Emma",CSE 150A - AI: Probabilistic Models (A00),S224,39 (48.72%),3.25 (B),7.42,4.64,4.63,4.62,cse150a
+"Smart, Mary Anne",CSE 150A - AI: Probabilistic Models (A00),S123,44 (9.09%),3.21 (B),10.0,3.75,3.88,4.25,cse150a
+"Briones, Jor-el Thomas Caparas",CSE 21 - Math/Algorithm&Systems Analys (A00),S225,25 (24.00%),3.49 (B+),8.33,4.0,3.67,3.75,cse21
+"Braun, Oliver",CSE 21 - Math/Algorithm&Systems Analys (B00),S225,14 (57.14%),2.91 (B-),6.5,4.68,4.72,4.84,cse21
+"Briones, Jor-el Thomas Caparas",CSE 21 - Math/Algorithm&Systems Analys (A00),S125,27 (22.22%),3.04 (B),8.33,4.04,3.83,3.88,cse21
+"Jones, Miles E",CSE 21 - Math/Algorithm&Systems Analys (A00),SP25,208 (25.96%),3.04 (B),6.85,4.2,4.11,4.34,cse21
+"Jones, Miles E",CSE 21 - Math/Algorithm&Systems Analys (A00),WI25,96 (23.96%),2.85 (B-),9.14,4.13,4.04,4.38,cse21
+"Jones, Miles E",CSE 21 - Math/Algorithm&Systems Analys (A00),FA24,362 (35.36%),3.11 (B),8.29,4.22,4.14,4.46,cse21
+"Briones, Jor-el Thomas Caparas",CSE 21 - Math/Algorithm&Systems Analys (A00),S224,44 (54.55%),2.80 (B-),8.25,4.71,4.43,4.5,cse21
+"Braun, Oliver",CSE 21 - Math/Algorithm&Systems Analys (A00),S124,31 (64.52%),2.63 (C+),8.21,4.35,4.33,4.38,cse21
+"Jones, Miles E",CSE 21 - Math/Algorithm&Systems Analys (A00),SP24,193 (24.35%),3.06 (B),7.29,4.21,4.16,4.39,cse21
+"Jones, Miles E",CSE 21 - Math/Algorithm&Systems Analys (A00),WI24,246 (29.27%),3.02 (B),7.83,4.28,4.15,4.45,cse21
+"Impagliazzo, Russell",CSE 21 - Math/Algorithm&Systems Analys (A00),FA23,356 (46.63%),3.14 (B),8.57,3.18,3.03,4.0,cse21
+"Braun, Oliver",CSE 21 - Math/Algorithm&Systems Analys (A00),S223,,2.44 (C+),7.0,4.54,4.52,4.6,cse21
+"Briones, Jor-el Thomas Caparas",CSE 21 - Math/Algorithm&Systems Analys (A00),S123,60 (56.67%),3.59 (B+),8.24,4.03,3.91,4.22,cse21
+"Voelker, Geoffrey M.",CSE 125 - Software Sys Design & Implemnt (A00),SP25,36 (30.56%),4.00 (A),14.18,4.9,4.93,4.98,cse125
+"Voelker, Geoffrey M.",CSE 125 - Software Sys Design & Implemnt (A00),SP24,35 (22.86%),3.99 (A-),12.13,4.89,4.9,4.93,cse125
+"Tullsen, Dean Michael",CSE 148 - Adv Processor Arch Design Proj (A00),WI25,17 (58.82%),3.85 (A-),12.78,4.5,4.31,4.42,cse148
+"Tullsen, Dean Michael",CSE 148 - Adv Processor Arch Design Proj (A00),WI24,24 (41.67%),3.79 (A-),12.6,4.82,4.79,4.62,cse148
+"Shang, Jingbo",CSE 109 - Intro to Programming Contests (A00),FA24,31 (25.81%),(N/A),5.86,4.34,4.0,3.88,cse109
+"Gao, Sicun",CSE 150B - AI: Search and Reasoning (A00),SP25,305 (20.00%),3.72 (A-),7.14,4.76,4.72,4.77,cse150b
+"Gao, Sicun",CSE 150B - AI: Search and Reasoning (A00),SP24,361 (27.70%),3.86 (A-),7.61,4.64,4.56,4.66,cse150b
+"Polikarpova, Nadezhda",CSE 130 - Progrmng Lang:Princpl&Paradigm (A00),SP25,123 (18.70%),3.64 (B+),6.55,4.69,4.57,4.79,cse130
+"Jhala, Ranjit",CSE 130 - Progrmng Lang:Princpl&Paradigm (A00),WI25,111 (29.73%),3.21 (B),6.82,4.55,4.31,4.52,cse130
+"Polikarpova, Nadezhda",CSE 130 - Progrmng Lang:Princpl&Paradigm (A00),SP24,196 (23.98%),3.81 (A-),7.74,4.54,4.55,4.7,cse130
+"Jhala, Ranjit",CSE 130 - Progrmng Lang:Princpl&Paradigm (A00),WI24,62 (14.52%),3.41 (B+),7.67,4.58,4.59,4.61,cse130
+"Polikarpova, Nadezhda",CSE 130 - Progrmng Lang:Princpl&Paradigm (A00),FA23,142 (15.49%),3.59 (B+),9.32,4.57,4.49,4.57,cse130
+"Chern, Albert Ren-Haur",CSE 167 - Computer Graphics (A00),WI25,179 (80.45%),3.77 (A-),7.27,4.34,4.21,4.44,cse167
+"Li, Tzumao",CSE 167 - Computer Graphics (A00),FA24,137 (30.66%),3.77 (A-),7.71,4.65,4.6,4.71,cse167
+"Ramamoorthi, Ravi",CSE 167 - Computer Graphics (A00),WI24,164 (30.49%),2.98 (B-),9.69,4.31,4.08,4.4,cse167
+"Li, Tzumao",CSE 167 - Computer Graphics (A00),FA23,171 (36.84%),3.71 (A-),8.25,4.59,4.48,4.62,cse167
+"Eldon, John",CSE 141L - Project/Computer Architecture (A00),S125,44 (6.82%),3.69 (B+),12.33,4.67,4.58,4.67,cse141l
+"Eldon, John",CSE 141L - Project/Computer Architecture (A00),SP25,174 (13.79%),2.75 (B-),7.59,3.98,3.84,4.48,cse141l
+"Eldon, John",CSE 141L - Project/Computer Architecture (A00),FA24,85 (17.65%),2.88 (B-),6.14,3.61,3.78,4.48,cse141l
+"Eldon, John",CSE 141L - Project/Computer Architecture (A00),S124,57 (14.04%),2.73 (B-),12.5,4.28,4.26,4.66,cse141l
+"Eldon, John",CSE 141L - Project/Computer Architecture (A00),SP24,181 (26.52%),2.77 (B-),7.63,3.98,3.84,4.3,cse141l
+"Eldon, John",CSE 141L - Project/Computer Architecture (A00),FA23,47 (17.02%),3.34 (B+),7.5,4.1,4.25,4.53,cse141l
+"Eldon, John",CSE 141L - Project/Computer Architecture (B00),FA23,59 (15.25%),3.34 (B+),7.22,3.82,4.14,4.39,cse141l
+"Eldon, John",CSE 141L - Project/Computer Architecture (A00),S223,100 (3.00%),3.00 (B),10.0,4.58,4.67,4.75,cse141l
+"Powell, Thomas Allan",CSE 110 - Software Engineering (A00),SP25,332 (22.29%),3.40 (B+),9.4,3.82,3.49,4.28,cse110
+"Griswold, William G.",CSE 110 - Software Engineering (A00),WI25,183 (48.09%),2.77 (B-),10.35,3.77,3.59,4.3,cse110
+"Coblenz, Michael J",CSE 110 - Software Engineering (A00),FA24,192 (46.35%),3.63 (B+),9.89,3.91,3.73,4.42,cse110
+"Powell, Thomas Allan",CSE 110 - Software Engineering (A00),SP24,372 (82.80%),3.63 (B+),9.11,3.79,3.56,4.25,cse110
+"Griswold, William G.",CSE 110 - Software Engineering (A00),WI24,191 (63.87%),3.27 (B),10.47,3.76,3.63,4.2,cse110
+"Miranda, Gregory Joseph",CSE 110 - Software Engineering (A00),FA23,248 (22.98%),3.50 (B+),9.56,4.03,3.83,4.32,cse110
+"Rosing, Tajana Simunic",CSE 147 - Intro to Embedded Systems (A00),WI25,53 (86.79%),3.90 (A-),7.36,4.12,3.91,4.27,cse147
+"Chandraker, Manmohan Krishna",CSE 152B - Intro to Comp Vision II (A00),SP25,48 (77.08%),3.64 (B+),6.71,4.34,4.23,4.52,cse152b
+"Paturi, Ramamohan",CSE 106 - Discrete/Cont Optimization (A00),FA24,54 (22.22%),3.55 (B+),8.36,4.35,4.29,4.52,cse106
+"Paturi, Ramamohan",CSE 106 - Discrete/Cont Optimization (A00),FA23,23 (17.39%),3.92 (A-),8.75,3.94,3.56,4.13,cse106
+"Suhl, Adam",CSE 107 - Intro to Modern Cryptography (A00),S125,25 (60.00%),2.88 (B-),6.57,4.51,4.17,4.75,cse107
+"Bellare, Mihir",CSE 107 - Intro to Modern Cryptography (A00),SP25,33 (27.27%),2.65 (C+),8.56,4.28,4.25,4.58,cse107
+"Heninger, Nadia A",CSE 107 - Intro to Modern Cryptography (A00),WI25,50 (28.00%),2.89 (B-),6.33,4.38,3.89,4.52,cse107
+"Bellare, Mihir",CSE 107 - Intro to Modern Cryptography (A00),FA24,39 (23.08%),2.67 (C+),8.33,3.61,3.31,4.17,cse107
+"Bellare, Mihir",CSE 107 - Intro to Modern Cryptography (A00),SP24,83 (27.71%),2.55 (C+),7.0,4.2,4.11,4.58,cse107
+"Heninger, Nadia A",CSE 107 - Intro to Modern Cryptography (A00),WI24,45 (37.78%),3.06 (B),5.71,4.8,4.44,4.62,cse107
+"Bellare, Mihir",CSE 107 - Intro to Modern Cryptography (A00),FA23,51 (29.41%),2.41 (C+),6.67,4.39,4.05,4.46,cse107
+"Moshiri, Niema",CSE 185 - Advanced Bioinformatics Lab (A00),SP25,104 (50.00%),3.84 (A-),4.2,4.64,4.76,4.7,cse185
+"Gymrek, Melissa Ann",CSE 185 - Advanced Bioinformatics Lab (A00),SP24,115 (38.26%),3.70 (A-),7.05,4.68,4.61,4.67,cse185
+"Bonjour, Trevor",CSE 193 - Introduction to CS Research (A00),FA24,54 (37.04%),3.85 (A-),9.26,4.45,4.39,4.72,cse193
+"Huang, Ruanqianqian",CSE 193 - Introduction to CS Research (A00),FA23,53 (54.72%),3.80 (A-),8.62,4.43,4.56,4.72,cse193
+"Ochoa, Benjamin Lawrence",CSE 166 - Image Processing (A00),FA23,52 (23.08%),2.97 (B-),10.0,4.21,3.65,4.19,cse166
+"Ding, Yufei",CSE 131 - Compiler Construction (A00),SP25,34 (76.47%),3.60 (B+),8.27,4.57,4.2,4.36,cse131
+"Ding, Yufei",CSE 131 - Compiler Construction (A00),SP24,39 (76.92%),3.79 (A-),9.9,4.39,4.22,4.32,cse131
+"Politz, Joseph Gibbs",CSE 131 - Compiler Construction (A00),SP23,69 (17.39%),3.02 (B),9.58,4.94,4.75,4.88,cse131
+"Fernandes, Earlence T",CSE 127 - Intro to Computer Security (A00),SP25,98 (20.41%),3.32 (B+),9.79,4.31,3.75,4.53,cse127
+"Munyaka, Imani N. S.",CSE 127 - Intro to Computer Security (A00),WI25,57 (22.81%),3.40 (B+),7.17,3.88,3.65,4.25,cse127
+"Savage, Stefan",CSE 127 - Intro to Computer Security (A00),FA24,164 (24.39%),3.23 (B),7.45,4.53,4.12,4.58,cse127
+"Fernandes, Earlence T",CSE 127 - Intro to Computer Security (A00),SP24,150 (15.33%),3.33 (B+),8.04,4.49,3.85,4.41,cse127
+"Munyaka, Imani N. S.",CSE 127 - Intro to Computer Security (A00),WI24,137 (31.39%),3.34 (B+),6.9,3.35,2.87,3.5,cse127
+"Savage, Stefan",CSE 127 - Intro to Computer Security (A00),FA23,181 (21.55%),3.36 (B+),8.59,4.54,4.03,4.5,cse127
+"Vaccaro, Kristen Marie",CSE 170 - Human-Comp Interaction Design (A00),FA24,134 (22.39%),3.50 (B+),7.0,3.62,3.05,3.89,cse170
+"Vaccaro, Kristen Marie",CSE 170 - Human-Comp Interaction Design (A00),FA23,67 (25.37%),3.55 (B+),6.18,3.16,2.68,3.74,cse170
+"Vaccaro, Kristen Marie",CSE 170 - Human-Comp Interaction Design (B00),FA23,82 (32.93%),3.47 (B+),6.67,3.8,3.56,4.15,cse170
+"Munyaka, Imani N. S.","CSE 194 - Race, Gender & Computing (A00)",FA23,47 (34.04%),3.59 (B+),6.25,3.49,3.23,4.15,cse194
+"Minnes Kemp, Mor Mia",CSE 90 - Undergraduate Seminar (A00),SP24,43 (25.58%),(N/A),1.22,4.64,4.56,4.64,cse90
+"Minnes Kemp, Mor Mia",CSE 90 - Undergraduate Seminar (A00),WI24,37 (27.03%),(N/A),2.0,4.68,4.68,4.77,cse90
+"Minnes Kemp, Mor Mia",CSE 90 - Undergraduate Seminar (A00),SP23,55 (30.91%),(N/A),1.18,4.45,4.68,4.78,cse90
+"Eldon, John",CSE 140L - Digital Systems Laboratory (A00),SP25,111 (11.71%),3.29 (B),7.33,3.52,3.6,4.04,cse140l
+"Eldon, John",CSE 140L - Digital Systems Laboratory (A00),WI25,160 (30.63%),3.55 (B+),7.94,3.99,4.0,4.36,cse140l
+"Orailoglu, Alex",CSE 140L - Digital Systems Laboratory (A00),FA24,62 (24.19%),2.80 (B-),12.36,3.4,2.6,3.9,cse140l
+"Orailoglu, Alex",CSE 140L - Digital Systems Laboratory (A00),SP24,16 (25.00%),2.41 (C+),13.5,4.25,4.06,4.44,cse140l
+"Eldon, John",CSE 140L - Digital Systems Laboratory (B00),SP24,134 (23.13%),3.78 (A-),7.83,3.61,3.83,4.29,cse140l
+"Eldon, John",CSE 140L - Digital Systems Laboratory (A00),WI24,162 (29.63%),3.46 (B+),6.49,3.95,3.88,4.31,cse140l
+"Eldon, John",CSE 140L - Digital Systems Laboratory (A00),FA23,189 (28.04%),3.77 (A-),8.02,4.06,4.03,4.3,cse140l
+"Eldon, John",CSE 140L - Digital Systems Laboratory (A00),S123,90 (10.00%),3.46 (B+),9.44,4.28,4.23,4.56,cse140l
+"Bafna, Vineet",CSE 182 - Biological Databases (A00),SP24,48 (25.00%),3.21 (B),8.17,3.5,3.38,4.17,cse182
+"Deutsch, Alin Bernard",CSE 132B - Database System Applications (A00),SP24,58 (20.69%),4.00 (A),7.83,3.96,3.96,4.34,cse132b
+"Eldon, John",CSE 141 - Intro/Computer Architecture (A00),S125,65 (7.69%),3.15 (B),8.2,3.32,3.5,3.9,cse141
+"Pannuto, Patrick William",CSE 141 - Intro/Computer Architecture (A00),SP25,187 (21.39%),3.30 (B+),6.47,4.56,4.52,4.53,cse141
+"Zhao, Jishen",CSE 141 - Intro/Computer Architecture (A00),FA24,85 (69.41%),3.68 (B+),6.44,4.37,4.33,4.55,cse141
+"Eldon, John",CSE 141 - Intro/Computer Architecture (A00),S124,53 (16.98%),3.16 (B),10.44,4.06,4.11,4.74,cse141
+"Zhao, Jishen",CSE 141 - Intro/Computer Architecture (A00),SP24,191 (81.15%),3.72 (A-),6.45,4.29,4.21,4.42,cse141
+"Pannuto, Patrick William",CSE 141 - Intro/Computer Architecture (A00),FA23,67 (31.34%),3.70 (B+),7.62,4.52,4.4,4.49,cse141
+"Pannuto, Patrick William",CSE 141 - Intro/Computer Architecture (B00),FA23,32 (15.63%),3.53 (B+),8.0,4.9,4.9,4.85,cse141
+"Eldon, John",CSE 141 - Intro/Computer Architecture (A00),S223,98 (5.10%),3.21 (B),8.0,4.0,4.2,4.6,cse141
+"Zhao, Jishen",CSE 141 - Intro/Computer Architecture (A00),SP23,164 (90.24%),3.69 (B+),7.48,4.26,4.31,4.49,cse141
+"Cao, Yingjun",CSE 12 - Basic Data Struct & OO Design (A00),SP25,155 (40.65%),2.67 (C+),7.81,4.54,4.47,4.59,cse12
+"Cao, Yingjun",CSE 12 - Basic Data Struct & OO Design (B00),SP25,171 (49.12%),2.72 (B-),7.9,4.49,4.33,4.62,cse12
+"Cao, Yingjun",CSE 12 - Basic Data Struct & OO Design (A00),WI25,307 (62.87%),3.51 (B+),7.48,4.51,4.32,4.54,cse12
+"Cao, Yingjun",CSE 12 - Basic Data Struct & OO Design (A00),FA24,127 (18.11%),2.99 (B-),7.77,4.31,4.28,4.46,cse12
+"Cao, Yingjun",CSE 12 - Basic Data Struct & OO Design (B00),FA24,123 (21.14%),3.18 (B),7.8,4.45,4.32,4.55,cse12
+"Huang, Ruanqianqian (Lisa)",CSE 12 - Basic Data Struct & OO Design (A00),S124,45 (33.33%),2.92 (B-),7.8,4.67,4.71,4.83,cse12
+"Cao, Yingjun",CSE 12 - Basic Data Struct & OO Design (A00),SP24,126 (57.14%),2.69 (C+),8.71,4.41,4.33,4.49,cse12
+"Miranda, Gregory Joseph",CSE 12 - Basic Data Struct & OO Design (B00),SP24,277 (24.55%),3.14 (B),7.46,4.28,4.3,4.59,cse12
+"Cao, Yingjun",CSE 12 - Basic Data Struct & OO Design (A00),WI24,187 (51.87%),3.39 (B+),8.52,4.45,4.26,4.55,cse12
+"Cao, Yingjun",CSE 12 - Basic Data Struct & OO Design (B00),WI24,289 (59.86%),3.44 (B+),8.25,4.39,4.26,4.51,cse12
+"Miranda, Gregory Joseph",CSE 12 - Basic Data Struct & OO Design (A00),FA23,231 (27.27%),3.10 (B),8.95,3.99,3.88,4.29,cse12
+"Miranda, Gregory Joseph",CSE 12 - Basic Data Struct & OO Design (B00),SP23,207 (26.57%),3.17 (B),9.45,3.5,3.09,4.03,cse12
+"Solares, Edwin A",CSE 15L - Software Tools&Techniques Lab (A00),SP24,37 (24.32%),2.92 (B-),5.25,4.56,4.33,4.44,cse15l
+"Solares, Edwin A",CSE 15L - Software Tools&Techniques Lab (B00),SP24,36 (38.89%),3.08 (B),4.43,4.55,4.52,4.57,cse15l
+"Solares, Edwin A",CSE 15L - Software Tools&Techniques Lab (C00),SP24,47 (46.81%),3.17 (B),5.18,4.51,4.42,4.7,cse15l
+"Solares, Edwin A",CSE 15L - Software Tools&Techniques Lab (D00),SP24,44 (45.45%),2.96 (B-),6.1,4.35,4.39,4.51,cse15l
+"Politz, Joseph Gibbs",CSE 15L - Software Tools&Techniques Lab (A00),WI24,403 (61.04%),3.46 (B+),4.25,4.41,4.41,4.57,cse15l
+"Politz, Joseph Gibbs",CSE 15L - Software Tools&Techniques Lab (A00),FA23,350 (59.14%),3.28 (B),6.05,4.45,4.36,4.6,cse15l
+"Gungor, Onat",CSE 15L - Software Tools&Techniques Lab (B00),FA23,49 (77.55%),3.13 (B),5.66,4.01,3.99,4.34,cse15l
+"Gungor, Onat",CSE 15L - Software Tools&Techniques Lab (C00),FA23,43 (55.81%),2.77 (B-),6.04,4.28,4.34,4.52,cse15l
+"Solares, Edwin A",CSE 15L - Software Tools&Techniques Lab (E00),FA23,12 (66.67%),2.70 (B-),5.63,4.38,4.13,4.63,cse15l
+"Politz, Joseph Gibbs",CSE 15L - Software Tools&Techniques Lab (A00),SP23,217 (35.48%),3.52 (B+),5.71,4.44,4.5,4.58,cse15l
+"Politz, Joseph Gibbs",CSE 15L - Software Tools&Techniques Lab (B00),SP23,209 (31.58%),3.66 (B+),5.62,4.52,4.56,4.64,cse15l
+"Leverentz, Andrew John",CSE 100 - Advanced Data Structures (A00),S225,31 (38.71%),3.73 (A-),9.18,4.42,4.57,4.54,cse100
+"Leverentz, Andrew John",CSE 100 - Advanced Data Structures (A00),S125,81 (32.10%),3.73 (A-),8.58,4.53,4.63,4.67,cse100
+"Sahoo, Debashis",CSE 100 - Advanced Data Structures (A00),SP25,346 (44.22%),3.53 (B+),6.71,3.96,3.79,4.16,cse100
+"Moshiri, Niema",CSE 100 - Advanced Data Structures (A00),WI25,199 (69.85%),3.27 (B),6.99,4.5,4.48,4.61,cse100
+"Moshiri, Niema",CSE 100 - Advanced Data Structures (A00),FA24,202 (49.50%),3.43 (B+),7.12,4.54,4.51,4.63,cse100
+"Sahoo, Debashis",CSE 100 - Advanced Data Structures (A00),SP24,311 (63.67%),3.08 (B),7.55,4.39,4.38,4.5,cse100
+"Moshiri, Alexander Niema",CSE 100 - Advanced Data Structures (A00),FA23,247 (74.49%),3.27 (B),7.9,4.55,4.54,4.65,cse100
+"Ousterhout, Amy",CSE 120 - Operating Systems Principles (A00),SP25,303 (28.38%),2.85 (B-),9.57,4.41,4.22,4.64,cse120
+"Pasquale, Joseph",CSE 120 - Operating Systems Principles (A00),WI25,166 (27.11%),3.03 (B),12.34,4.52,4.23,4.67,cse120
+"Voelker, Geoffrey M.",CSE 120 - Princ/Computer Operating Systm (A00),FA24,253 (30.83%),2.88 (B-),11.83,4.73,4.65,4.76,cse120
+"Zhou, Yuan-Yuan",CSE 120 - Princ/Computer Operating Systm (A00),SP24,205 (75.12%),2.71 (B-),11.18,4.29,4.08,4.36,cse120
+"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (A00),WI24,163 (34.97%),2.98 (B-),11.07,4.5,4.16,4.51,cse120
+"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (B00),WI24,79 (36.71%),3.32 (B+),8.59,4.58,4.37,4.73,cse120
+"Voelker, Geoffrey M.",CSE 120 - Princ/Computer Operating Systm (A00),FA23,234 (22.22%),2.88 (B-),9.71,4.26,4.27,4.59,cse120
+"Ousterhout, Amy",CSE 120 - Princ/Computer Operating Systm (B00),SP23,90 (32.22%),2.90 (B-),9.31,4.48,4.4,4.47,cse120
+"Cao, Yingjun",CSE 8A - Intro to Programming 1 (A00),S225,68 (25.00%),3.55 (B+),6.06,4.59,4.43,4.65,cse8a
+"Shah, Anshul Yatin",CSE 8A - Intro to Programming 1 (A00),S125,7 (100.00%),3.59 (B+),5.86,4.91,4.93,5.0,cse8a
+"Villegas Molina, Ismael",CSE 8A - Intro to Programming 1 (B00),S125,4 (100.00%),3.33 (B+),6.5,4.4,4.73,5.0,cse8a
+"Porter, Leonard Emerson",CSE 8A - Intro to Programming 1 (A00),SP25,181 (62.43%),3.10 (B),6.18,4.3,4.27,4.49,cse8a
+"Alvarado, Christine J.",CSE 8A - Intro to Programming 1 (A00),WI25,272 (70.59%),3.12 (B),7.26,4.39,4.37,4.63,cse8a
+"Soosai Raj, Adalbert Geral",CSE 8A - Intro to Programming 1 (A00),FA24,148 (55.41%),2.68 (C+),6.21,4.65,4.4,4.74,cse8a
+"Soosai Raj, Adalbert Geral",CSE 8A - Intro to Programming 1 (B00),FA24,173 (55.49%),2.50 (C+),6.99,4.5,4.34,4.71,cse8a
+"Lerner, Sorin",CSE 8A - Intro to Programming 1 (C00),FA24,160 (61.88%),2.58 (C+),7.28,4.38,4.09,4.57,cse8a
+"Solares, Edwin A",CSE 8A - Intro to Programming 1 (A00),S224,24 (79.17%),3.35 (B+),7.0,4.09,3.89,4.3,cse8a
+"Solares, Edwin A",CSE 8A - Intro to Programming 1 (B00),S224,25 (16.00%),2.85 (B-),9.0,3.13,3.19,4.07,cse8a
+"Coleman, Cora",CSE 8A - Intro to Programming 1 (A00),S124,30 (70.00%),2.64 (C+),8.05,4.17,4.01,4.56,cse8a
+"Miranda, Gregory Joseph",CSE 8A - Intro to Programming 1 (A00),SP24,241 (14.11%),3.08 (B),6.24,4.16,4.23,4.48,cse8a
+"Alvarado, Christine J.",CSE 8A - Intro to Programming 1 (A00),WI24,144 (84.72%),2.92 (B-),7.26,4.3,4.23,4.62,cse8a
+"Alvarado, Christine J.",CSE 8A - Intro to Programming 1 (B00),WI24,149 (75.17%),2.99 (B-),6.75,4.34,4.27,4.59,cse8a
+"Porter, Leonard Emerson",CSE 8A - Intro to Programming 1 (A00),FA23,287 (61.67%),3.37 (B+),7.07,4.14,4.04,4.52,cse8a
+"Porter, Leonard Emerson",CSE 8A - Intro to Programming 1 (B00),FA23,266 (68.80%),3.43 (B+),7.13,4.1,3.96,4.47,cse8a
+"Cao, Yingjun",CSE 8A - Intro to Programming 1 (A00),S223,33 (33.33%),2.57 (C+),9.09,3.98,3.47,4.33,cse8a
+"Cao, Yingjun",CSE 8A - Intro to Programming 1 (A00),S123,49 (12.24%),2.77 (B-),8.33,3.54,3.63,4.46,cse8a
+"Salguero, Adrian",CSE 8A - Intro to Programming 1 (B00),S123,40 (60.00%),2.70 (B-),7.92,4.67,4.76,4.8,cse8a
+"Yu, Qi",CSE 151B - Deep Learning (A00),SP25,185 (37.30%),3.52 (B+),8.28,3.97,3.78,4.28,cse151b
+"Cottrell, Garrison W",CSE 151B - Deep Learning (A00),WI25,95 (26.32%),3.75 (A-),10.33,4.52,4.45,4.62,cse151b
+"Cottrell, Garrison W",CSE 151B - Deep Learning (A00),WI24,89 (20.22%),3.64 (B+),11.44,4.39,4.1,4.65,cse151b
+"Tseng, Hung-Wei",CSE 142L - Software Proj Comp Arch (A00),S225,24 (25.00%),3.22 (B),8.0,4.83,4.75,4.79,cse142l
+"Tseng, Hung-Wei",CSE 142L - Software Proj Comp Arch (A00),S224,44 (18.18%),3.62 (B+),9.38,4.46,4.44,4.43,cse142l
+"Swanson, Steven James",CSE 142L - Software Proj Comp Arch (A00),WI24,153 (28.76%),3.22 (B),10.0,4.08,4.16,4.43,cse142l
+"Swanson, Steven James",CSE 142L - Software Proj Comp Arch (B00),WI24,144 (43.06%),3.12 (B),10.92,4.0,3.99,4.22,cse142l
+"Moshiri, Niema",CSE 100R - Advanced Data Structures (A00),WI25,292 (62.33%),3.14 (B),6.83,4.43,4.46,4.56,cse100r
+"Moshiri, Niema",CSE 100R - Advanced Data Structures (A00),FA24,267 (46.44%),3.23 (B),7.3,4.54,4.53,4.61,cse100r
+"Moshiri, Niema",CSE 100R - Advanced Data Structures (A00),SP24,158 (66.46%),2.84 (B-),7.52,4.61,4.56,4.67,cse100r
+"Moshiri, Niema",CSE 100R - Advanced Data Structures (A00),WI24,402 (73.63%),3.21 (B),8.0,4.61,4.57,4.7,cse100r
+"Moshiri, Alexander Niema",CSE 100R - Advanced Data Structures (A00),FA23,247 (71.26%),3.21 (B),7.91,4.55,4.52,4.62,cse100r
+"Powell, Thomas Allan",CSE 134B - Web Client Languages (A00),S125,36 (13.89%),3.39 (B+),8.2,4.52,4.53,4.95,cse134b
+"Powell, Thomas Allan",CSE 134B - Web Client Languages (A00),WI25,148 (19.59%),3.24 (B),8.85,4.16,3.72,4.44,cse134b
+"Powell, Thomas Allan",CSE 134B - Web Client Languages (A00),FA23,135 (25.19%),3.28 (B),8.38,4.48,4.21,4.55,cse134b
+"Powell, Thomas Allan",CSE 134B - Web Client Languages (A00),S123,56 (8.93%),2.69 (C+),10.0,4.75,4.69,4.81,cse134b
+"Kastner, Ryan Charles",CSE 160 - Intro to Parallel Computing (A00),WI25,280 (33.21%),3.33 (B+),9.01,4.4,4.18,4.5,cse160
+"Kastner, Ryan Charles",CSE 160 - Intro to Parallel Computing (A00),WI24,231 (30.74%),3.36 (B+),7.34,4.43,4.25,4.52,cse160
+"McAuley, Julian John",CSE 158R - Recommender Sys&Web Mining (A00),FA24,493 (24.14%),3.85 (A-),6.63,4.4,4.47,4.61,cse158r
+"McAuley, Julian John",CSE 158R - Recommender Sys&Web Mining (A00),FA23,408 (22.55%),3.70 (A-),7.75,4.39,4.37,4.56,cse158r
+"Braun, Oliver",CSE 101 - Design & Analysis of Algorithm (A00),S225,28 (75.00%),2.96 (B-),8.3,4.59,4.6,4.69,cse101
+"Jones, Miles E",CSE 101 - Design & Analysis of Algorithm (B00),S225,82 (14.63%),3.08 (B),10.33,4.48,4.42,4.64,cse101
+"Impagliazzo, Russell",CSE 101 - Design & Analysis of Algorithm (A00),SP25,245 (28.98%),2.75 (B-),8.23,3.84,3.73,4.31,cse101
+"Saha, Barna",CSE 101 - Design & Analysis of Algorithm (A00),WI25,244 (70.90%),2.96 (B-),8.73,3.35,3.05,3.83,cse101
+"Saha, Barna",CSE 101 - Design & Analysis of Algorithm (B00),WI25,230 (71.30%),2.94 (B-),7.91,3.34,3.01,3.8,cse101
+"Jones, Miles E",CSE 101 - Design & Analysis of Algorithm (A00),FA24,351 (22.51%),3.01 (B),7.64,4.45,4.4,4.54,cse101
+"Kane, Daniel Mertz",CSE 101 - Design & Analysis of Algorithm (B00),FA24,130 (25.38%),3.06 (B),10.97,4.59,4.11,4.52,cse101
+"Braun, Oliver",CSE 101 - Design & Analysis of Algorithm (A00),S124,39 (46.15%),2.62 (C+),9.29,4.67,4.58,4.64,cse101
+"Jones, Miles E",CSE 101 - Design & Analysis of Algorithm (A00),SP24,426 (28.87%),3.11 (B),8.61,4.4,4.29,4.51,cse101
+"Jones, Miles E",CSE 101 - Design & Analysis of Algorithm (A00),WI24,381 (35.96%),3.12 (B),8.58,4.45,4.35,4.51,cse101
+"Bach, Quang Tran",CSE 101 - Design & Analysis of Algorithm (A00),FA23,382 (30.89%),3.04 (B),9.4,4.23,3.98,4.47,cse101
+"Braun, Oliver",CSE 101 - Design & Analysis of Algorithm (A00),S223,,3.20 (B),9.0,4.45,4.39,4.47,cse101
+"Jones, Miles E",CSE 101 - Design & Analysis of Algorithm (B00),S223,50 (12.00%),2.93 (B-),6.67,4.42,4.33,4.63,cse101
+"Briones, Jor-el Thomas Caparas",CSE 101 - Design & Analysis of Algorithm (A00),S123,38 (76.32%),3.63 (B+),8.57,4.16,4.02,4.18,cse101
+"Qin, Lianhui",CSE 156 - Statistical NLP (A00),WI25,122 (60.66%),3.88 (A-),6.64,3.93,3.97,4.4,cse156
+"Nakashole, Ndapandula",CSE 156 - Statistical NLP (A00),FA24,140 (76.43%),3.61 (B+),7.39,4.29,4.08,4.5,cse156
+"Nakashole, Ndapandula",CSE 156 - Statistical NLP (A00),SP24,184 (19.02%),3.76 (A-),6.24,4.17,4.11,4.44,cse156
+"Li, Zheyu",CSE 140 - Component&Desgn Tech/Digtl Sys (A00),S225,12 (41.67%),2.98 (B-),9.8,4.42,4.2,4.15,cse140
+"Eldon, John",CSE 140 - Component&Desgn Tech/Digtl Sys (A00),SP25,176 (21.59%),2.80 (B-),6.53,3.75,3.88,4.51,cse140
+"Rosing, Tajana Simunic",CSE 140 - Component&Desgn Tech/Digtl Sys (A00),WI25,203 (87.68%),2.78 (B-),8.73,4.25,4.02,4.47,cse140
+"Orailoglu, Alex",CSE 140 - Component&Desgn Tech/Digtl Sys (A00),FA24,84 (30.95%),2.74 (B-),10.8,3.58,2.82,3.88,cse140
+"Li, Xuanang",CSE 140 - Component&Desgn Tech/Digtl Sys (A00),S224,18 (100.00%),3.34 (B+),10.06,4.86,4.72,4.85,cse140
+"Li, Xuanang",CSE 140 - Component&Desgn Tech/Digtl Sys (A00),S124,29 (75.86%),3.13 (B),11.45,4.58,4.49,4.76,cse140
+"Orailoglu, Alex",CSE 140 - Component&Desgn Tech/Digtl Sys (A00),SP24,23 (26.09%),2.81 (B-),10.0,4.04,3.63,4.04,cse140
+"Eldon, John",CSE 140 - Component&Desgn Tech/Digtl Sys (B00),SP24,143 (25.17%),3.12 (B),6.44,3.63,3.6,4.36,cse140
+"Rosing, Tajana Simunic",CSE 140 - Component&Desgn Tech/Digtl Sys (A00),WI24,91 (87.91%),2.77 (B-),7.91,4.38,4.14,4.36,cse140
+"Rosing, Tajana Simunic",CSE 140 - Component&Desgn Tech/Digtl Sys (B00),WI24,82 (85.37%),2.92 (B-),7.46,4.47,4.23,4.52,cse140
+"Chin, Bryan W.",CSE 140 - Component&Desgn Tech/Digtl Sys (A00),FA23,189 (68.78%),2.98 (B-),8.77,4.15,4.06,4.31,cse140
+"Eldon, John",CSE 140 - Component&Desgn Tech/Digtl Sys (A00),S123,95 (11.58%),3.25 (B),7.27,4.07,4.16,4.5,cse140
+"Gupta, Amarnath",CSE 132C - Database System Implementation (A00),WI24,9 (33.33%),3.27 (B),5.0,4.67,4.73,4.89,cse132c
+"Moshiri, Niema",CSE 87 - First-year Seminar (A00),SP25,20 (60.00%),(N/A),1.17,4.62,4.68,4.76,cse87
+"Moshiri, Niema",CSE 87 - First-year Seminar (A00),WI25,13 (53.85%),(N/A),1.0,4.85,4.81,4.8,cse87
+"Cottrell, Garrison W",CSE 87 - First-year Seminar (B00),WI25,8 (37.50%),(N/A),2.33,4.18,4.2,4.27,cse87
+"Moshiri, Niema",CSE 87 - First-year Seminar (A00),FA24,18 (50.00%),(N/A),1.25,4.91,5.0,4.83,cse87
+"Cottrell, Garrison W",CSE 87 - First-year Seminar (B00),FA24,16 (62.50%),(N/A),1.6,4.53,4.45,4.72,cse87
+"Moshiri, Niema",CSE 87 - First-year Seminar (A00),SP24,14 (50.00%),(N/A),1.86,4.72,4.79,4.83,cse87
+"Cottrell, Garrison W",CSE 87 - First-year Seminar (A00),WI24,8 (37.50%),(N/A),2.33,4.08,4.64,4.73,cse87
+"Moshiri, Niema",CSE 87 - First-year Seminar (B00),WI24,19 (57.89%),(N/A),1.18,4.74,4.77,4.67,cse87
+"Cottrell, Garrison W",CSE 87 - First-year Seminar (A00),FA23,14 (64.29%),(N/A),1.11,4.0,3.92,4.19,cse87
+"Moshiri, Alexander Niema",CSE 87 - First-year Seminar (B00),FA23,19 (47.37%),(N/A),2.78,4.03,3.83,4.0,cse87
+"Minnes Kemp, Mor Mia",CSE 91 - Perspectives in CSE (B00),SP24,11 (27.27%),(N/A),10.5,4.8,,4.67,cse91
+"Minnes Kemp, Mor Mia",CSE 91 - Perspectives in CSE (B00),WI24,17 (52.94%),(N/A),1.44,4.54,4.68,4.64,cse91
+"Minnes Kemp, Mor Mia",CSE 91 - Perspectives in CSE (C00),WI24,18 (22.22%),(N/A),1.0,5.0,5.0,5.0,cse91
+"Minnes Kemp, Mor Mia",CSE 91 - Perspectives in CSE (A00),FA23,38 (57.89%),(N/A),0.71,4.65,4.7,4.81,cse91
+"Minnes Kemp, Mor Mia",CSE 91 - Perspectives in CSE (B00),FA23,53 (54.72%),(N/A),0.52,4.61,4.56,4.69,cse91
+"Minnes Kemp, Mor Mia",CSE 91 - Perspectives in CSE (C00),FA23,23 (52.17%),(N/A),0.83,4.49,4.59,4.77,cse91
+"Politz, Joseph Gibbs",CSE 29 - Sys Prog and Software Tools (A00),S125,79 (21.52%),3.45 (B+),7.41,4.64,4.63,4.72,cse29
+"Weng, Olivia",CSE 29 - Sys Prog and Software Tools (B00),S125,17 (70.59%),2.66 (C+),9.25,4.59,4.54,4.65,cse29
+"Solares, Edwin A",CSE 29 - Sys Prog and Software Tools (A00),SP25,59 (67.80%),2.95 (B-),7.89,4.04,3.86,4.1,cse29
+"Soosai Raj, Adalbert Geral",CSE 29 - Sys Prog and Software Tools (B00),SP25,198 (68.69%),3.38 (B+),7.44,4.74,4.63,4.73,cse29
+"Soosai Raj, Adalbert Geral",CSE 29 - Sys Prog and Software Tools (A00),WI25,153 (77.78%),3.27 (B),7.24,4.65,4.6,4.71,cse29
+"Soosai Raj, Adalbert Geral",CSE 29 - Sys Prog and Software Tools (B00),WI25,149 (70.47%),3.03 (B),7.86,4.66,4.63,4.65,cse29
+"Politz, Joseph Gibbs",CSE 29 - Sys Prog and Software Tools (A00),FA24,281 (49.11%),3.19 (B),9.26,4.52,4.23,4.64,cse29
+"Shalev, Aaron D",CSE 29 - Sys Prog and Software Tools (B00),FA24,135 (40.74%),2.75 (B-),8.57,4.55,4.15,4.56,cse29
+"Soosai Raj, Adalbert Geral",CSE 29 - Sys Prog and Software Tools (C00),SP24,175 (82.86%),2.86 (B-),8.05,4.45,4.36,4.66,cse29
+"Shalev, Aaron D",CSE 29 - Sys Prog and Software Tools (D00),SP24,37 (64.86%),2.68 (C+),7.83,4.63,4.39,4.7,cse29
+"Swanson, Steven James",CSE 176E - Robotic Sys Design & Implemnt (A00),FA24,15 (40.00%),3.97 (A-),11.67,4.71,4.5,4.61,cse176e
+"Swanson, Steven James",CSE 176E - Robotic Sys Design & Implemnt (A00),FA23,22 (27.27%),3.74 (A-),10.0,4.79,4.74,4.91,cse176e
