@@ -171,3 +171,113 @@ print("Analysis complete! Generated:")
 print(" - enrollment_comparison_shared.csv (offered all 3 quarters)")
 print(" - enrollment_comparison_partial.csv (offered in 1–2 quarters)")
 print("=" * 60)
+
+
+# ------------------------------------------------------------
+# STEP 5: Popularity & COURSE TYPE ANALYSIS (Ordered Version)
+# ------------------------------------------------------------
+print("\n" + "=" * 60)
+print("STEP 5: POPULARITY & COURSE TYPE ANALYSIS (ORDERED)")
+print("=" * 60)
+
+# Combine shared + partial data
+combined_df = pd.concat([shared_df, partial_df], ignore_index=True)
+if combined_df.empty:
+    print("No combined data found, skipping popularity analysis.")
+else:
+    # --- Set consistent ordering ---
+    quarter_order = ['Fall 2024', 'Winter 2025', 'Spring 2025']
+    combined_df['quarter_label'] = pd.Categorical(combined_df['quarter_label'],
+                                                  categories=quarter_order,
+                                                  ordered=True)
+    combined_df['course'] = pd.Categorical(combined_df['course'],
+                                           categories=sorted(combined_df['course'].unique(),
+                                                             key=lambda x: extract_course_num(x)),
+                                           ordered=True)
+
+    # --- Identify Required vs Elective ---
+    required_courses = {
+        'DSC_10', 'DSC_20', 'DSC_30', 'DSC_40A', 'DSC_40B',
+        'DSC_80', 'DSC_100', 'DSC_102', 'DSC_106',
+        'DSC_140A', 'DSC_140B', 'DSC_148', 'DSC_180A', 'DSC_180B'
+    }
+    combined_df['course_type'] = combined_df['course'].apply(
+        lambda x: 'Required' if x in required_courses else 'Elective'
+    )
+
+    # --- Top Classes Per Quarter (by Enrollment) ---
+    print("\nTop 5 Courses per Quarter (by Enrollment Count):")
+    for quarter in quarter_order:
+        qdata = combined_df[combined_df['quarter_label'] == quarter]
+        if qdata.empty:
+            continue
+        qdata = qdata.sort_values('course')
+        top_enrolled = qdata.sort_values('enrolled', ascending=False).head(5)
+        print(f"\n{quarter}")
+        for _, row in top_enrolled.iterrows():
+            print(f"  • {row['course']}: {int(row['enrolled'])} enrolled ({row['utilization_rate']:.1f}% full)")
+
+    # --- Top Classes Per Quarter (by Waitlist) ---
+    print("\nTop 5 Courses per Quarter (by Waitlist Rate):")
+    for quarter in quarter_order:
+        qdata = combined_df[combined_df['quarter_label'] == quarter]
+        if qdata.empty:
+            continue
+        qdata = qdata.sort_values('course')
+        top_waitlist = qdata.sort_values('waitlist_rate', ascending=False).head(5)
+        print(f"\n{quarter}")
+        for _, row in top_waitlist.iterrows():
+            print(f"  • {row['course']}: {row['waitlist_rate']:.1f}% waitlisted ({int(row['waitlisted'])} students)")
+
+        # --- Most Popular Quarter per Course (ordered by course) ---
+    print("\nMost Popular Quarter per Course (by Enrollment):")
+
+    most_popular_q = (
+        combined_df.loc[combined_df.groupby('course', observed=True)['enrolled'].idxmax()]
+        [['course', 'quarter_label', 'enrolled', 'utilization_rate']]
+        .assign(course_str=lambda df: df['course'].astype(str))  # 👈 Convert categorical safely
+        .sort_values('course_str', key=lambda x: x.map(lambda c: extract_course_num(c)))
+        .drop(columns='course_str')
+    )
+
+    for _, row in most_popular_q.iterrows():
+        print(f"  • {row['course']}: {int(row['enrolled'])} enrolled in {row['quarter_label']} ({row['utilization_rate']:.1f}% full)")
+
+    # --- Summary Stats by Course Type ---
+    print("\nAverage Utilization & Enrollment by Course Type:")
+    type_summary = (
+        combined_df.groupby('course_type', observed=True)[['enrolled', 'utilization_rate', 'waitlist_rate']]
+        .mean()
+        .round(2)
+        .rename(columns={
+            'enrolled': 'Avg Enrolled',
+            'utilization_rate': 'Avg Utilization (%)',
+            'waitlist_rate': 'Avg Waitlist (%)'
+        })
+    )
+    print(type_summary.to_string())
+
+    # --- Overall Most Popular Courses (by total enrollment) ---
+    print("\nOverall Most Popular Courses (by Total Enrollment Across All Quarters):")
+    top_courses = (
+        combined_df.groupby('course', observed=True)['enrolled'].sum()
+        .reset_index()
+        .assign(course_str=lambda df: df['course'].astype(str))
+        .sort_values('course_str', key=lambda x: x.map(lambda c: extract_course_num(c)))
+        .drop(columns='course_str')
+    )
+
+    top5 = top_courses.sort_values('enrolled', ascending=False).head(5)
+    for _, row in top5.iterrows():
+        ctype = 'Required' if row['course'] in required_courses else 'Elective'
+        print(f"  • {row['course']}: {int(row['enrolled'])} total enrolled ({ctype})")
+
+    # --- Export ordered CSVs ---
+    type_summary.to_csv('enrollment_summary_by_type.csv', index=True)
+    most_popular_q.to_csv('most_popular_quarters_by_course.csv', index=False)
+    top_courses.to_csv('overall_enrollment_by_course.csv', index=False)
+    print("\n✓ Exported:")
+    print("  - enrollment_summary_by_type.csv")
+    print("  - most_popular_quarters_by_course.csv")
+    print("  - overall_enrollment_by_course.csv (sorted numerically)")
+
