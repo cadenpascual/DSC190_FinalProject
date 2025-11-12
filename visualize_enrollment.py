@@ -2,9 +2,28 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 import numpy as np
+import re
+
+def extract_course_num(course):
+    match = re.search(r'(\d+)([A-Za-z]*)', course)
+    if match:
+        number = int(match.group(1))
+        suffix = match.group(2)
+        return (number, suffix)
+    return (0, '')
 
 # Load the data
 df = pd.read_csv('enrollment_comparison.csv')
+
+# Ensure quarter order
+quarter_order = ['Fall 2024', 'Winter 2025', 'Spring 2025']
+df['quarter_label'] = pd.Categorical(df['quarter_label'], categories=quarter_order, ordered=True)
+
+# Sort courses with unique, properly ordered categories
+sorted_courses = sorted(df['course'].unique(), key=lambda x: extract_course_num(x))
+course_order = sorted_courses
+df['course'] = pd.Categorical(df['course'], categories=sorted_courses, ordered=True)
+
 
 # Set style
 sns.set_style("whitegrid")
@@ -23,10 +42,6 @@ quarter_colors = {
     'Spring 2025': '#3498db',   # Blue
     'Winter 2025': '#9b59b6'    # Purple
 }
-
-# Sort courses for better visualization
-course_order = sorted(df['course'].unique())
-df['course'] = pd.Categorical(df['course'], categories=course_order, ordered=True)
 
 print("Creating visualizations...")
 print("=" * 60)
@@ -357,3 +372,84 @@ print("  6. enrollment_dashboard.png - Comprehensive multi-metric dashboard")
 print("\nData file:")
 print("  - enrollment_comparison.csv - Raw comparison data")
 
+
+# ============================================================================
+# VISUALIZATION 7: Course-Level Trend Line Plot
+# ============================================================================
+plt.figure(figsize=(14, 8))
+sns.lineplot(data=df, x='quarter_label', y='enrolled', hue='course', marker='o')
+plt.title('Enrollment Trends Across Quarters by Course', fontsize=16, fontweight='bold')
+plt.ylabel('Number of Enrolled Students')
+plt.xlabel('Quarter')
+plt.legend(bbox_to_anchor=(1.05, 1), loc='upper left')
+plt.grid(alpha=0.3)
+plt.tight_layout()
+plt.savefig('enrollment_trends_by_course.png', dpi=300)
+plt.close()
+
+
+# ============================================================================
+# VISUALIZATION 8: Waitlist-to-Capacity Ratio Chart
+# ============================================================================
+df['waitlist_ratio'] = (df['waitlisted'] / df['total']) * 100
+plt.figure(figsize=(12, 8))
+sns.barplot(data=df, x='course', y='waitlist_ratio', hue='quarter_label', palette=quarter_colors)
+plt.title('Waitlist Pressure (% of Total Capacity)', fontsize=16, fontweight='bold')
+plt.ylabel('Waitlisted / Capacity (%)')
+plt.xlabel('Course')
+plt.xticks(rotation=45, ha='right')
+plt.legend(bbox_to_anchor=(1.05, 1))
+plt.grid(axis='y', alpha=0.3)
+plt.tight_layout()
+plt.savefig('waitlist_pressure.png', dpi=300)
+plt.close()
+
+
+# ============================================================================
+# VISUALIZATION 9: Capacity vs Enrollment Scatter Plot
+# ============================================================================
+plt.figure(figsize=(10, 8))
+sns.scatterplot(data=df, x='total', y='enrolled', hue='quarter_label', style='course', s=150)
+plt.plot([0, df['total'].max()], [0, df['total'].max()], 'r--', label='Perfect Capacity Usage')
+plt.xlabel('Total Capacity')
+plt.ylabel('Enrolled Students')
+plt.title('Enrollment vs. Capacity by Quarter', fontsize=16, fontweight='bold')
+plt.legend(bbox_to_anchor=(1.05, 1))
+plt.tight_layout()
+plt.savefig('enrollment_vs_capacity.png', dpi=300)
+plt.close()
+
+
+# ============================================================================
+# VISUALIZATION 10: Bottleneck Courses Over Time
+# ============================================================================
+top_waitlist = df.groupby('quarter_label').apply(lambda x: x.nlargest(5, 'waitlisted'))
+plt.figure(figsize=(12, 8))
+sns.barplot(data=top_waitlist, x='course', y='waitlisted', hue='quarter_label', dodge=True)
+plt.title('Top 5 Courses by Waitlist Size Each Quarter', fontsize=16, fontweight='bold')
+plt.ylabel('Waitlisted Students')
+plt.xlabel('Course')
+plt.xticks(rotation=45, ha='right')
+plt.legend(bbox_to_anchor=(1.05, 1))
+plt.tight_layout()
+plt.savefig('top_waitlist_courses.png', dpi=300)
+plt.close()
+
+
+
+# ============================================================================
+# VISUALIZATION 11: Quarter-over-Quarter Change Plot
+# ============================================================================
+df_sorted = df.sort_values(['course', 'quarter_label'])
+df_sorted['enrollment_change'] = df_sorted.groupby('course')['enrolled'].pct_change() * 100
+plt.figure(figsize=(14, 8))
+sns.barplot(data=df_sorted, x='course', y='enrollment_change', hue='quarter_label', palette=quarter_colors)
+plt.title('Quarter-over-Quarter Enrollment Change (%)', fontsize=16, fontweight='bold')
+plt.ylabel('Enrollment Change (%)')
+plt.xlabel('Course')
+plt.xticks(rotation=45, ha='right')
+plt.axhline(0, color='black', linewidth=1)
+plt.grid(axis='y', alpha=0.3)
+plt.tight_layout()
+plt.savefig('enrollment_change_by_quarter.png', dpi=300)
+plt.close()
