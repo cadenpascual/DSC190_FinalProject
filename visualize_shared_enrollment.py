@@ -13,7 +13,7 @@ def extract_course_num(course):
     return (0, '')
 
 # Load the data
-df = pd.read_csv('enrollment_comparison.csv')
+df = pd.read_csv('enrollment_comparison_shared.csv')
 
 # Ensure quarter order
 quarter_order = ['Fall 2024', 'Winter 2025', 'Spring 2025']
