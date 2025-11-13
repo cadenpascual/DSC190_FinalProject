@@ -6,8 +6,8 @@ from io import StringIO
 
 # 🔹 Set up relative paths
 script_dir = os.path.dirname(os.path.abspath(__file__))  # folder where the script lives
-folder_path = os.path.join(script_dir, "SET_data")       # relative folder for .aspx files
-output_csv = os.path.join(script_dir, "all_capes.csv")   # where to save the CSV
+folder_path = os.path.join(script_dir, "DSC_SETS")       # relative folder for .aspx files
+output_csv = os.path.join(script_dir, "dsc_sets.csv")   # where to save the CSV
 
 # 🔹 Check that folder exists
 if not os.path.exists(folder_path):
